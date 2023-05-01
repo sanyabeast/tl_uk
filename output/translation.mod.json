@@ -226,7 +226,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "These monster attacks are disrupting my work!\\n\\nI am Vasman, a scholar of Ember.  I traveled to Torchlight to study the vast supply of Ember below, but these creatures make it impossible to obtain the samples I need.\\n\\nPerhaps you have more courage than these miners.  If you brave the tunnels and bring me a sample of |cFFFFBA00Gleaming Ember|u, I will reward you well.  It should not be difficult, look for the Ember on the |cFFFFBA00first floor|u of the mine.",
         "translation": "Из-за этих монстров я не могу нормально работать!\\n\\nЯ Васман, ученый. Изучаю эмбер.  Я прибыл в Сумеречный с целью изучить местные обширные залежи эмбера. Но из-за этих тварей я даже образцы взять не могу.\\n\\nМожет, у вас храбрости больше, чем у этих шахтеров?  Если спуститесь в шахты и принесете мне образец |cFFFFBA00сияющего эмбера|u, я щедро вас награжу.  Это не так сложно. Просто найдите эмбер на |cFFFFBA00первом уровне|u шахты.",
-        "new_translation": null,
+        "new_translation": "Ці чудовиська заважають працювати!\n\nЯ Васман, вчений. Вивчаю Ембер. Прибув до Торчлайту з метою дослідити місцеві обширні залежи Емберу, але ці істоти заважають мені отримати необхідні зразки.\n\nМожливо, у вас більше мужності, ніж у цих шахтарів? Якщо ви відважитеся спуститися в шахти та принесете мені зразок |cFFFFBA00Сяючого Емберу|u, я щедро вас винагороджу. Це не так складно. Просто знайдіть Ембер на |cFFFFBA00першому поверсі|u копальні",
         "tokens": {
             "tokens": [
                 {
@@ -402,7 +402,7 @@
         "property": "DIALOG:PASSIVE#1:DIALOG",
         "original": "The council has ordered the necropolis sealed.  I could purge the corruption from the awakened with a little more time, but they will not listen!  They call the Ember's effect a curse and feign concern for the peaceful rest of our ancestors, but fear alone guides them!\\n\\nIf the council refuses to accept the blessing of eternal life, we will keep the Ember for ourselves.  Woe to any who disturb our sanctuary.",
         "translation": "Совет приказал опечатать некрополис.  Будь у меня еще немного времени, мне бы удалось очистить пробудившихся от тьмы. Но никто не желает меня слушать!  Влияние эмбера считается тут проклятием. Все только изображают заботу о покое наших предков, а на самом деле ими движет лишь страх!\\n\\nЕсли совет откажется принять благословение вечной жизни, оставим эмбер себе.  Горе всем, кто нарушит покой нашего святилища.",
-        "new_translation": null,
+        "new_translation": "Рада наказала опечатати некрополіс. Якби в мене було ще трохи часу, мені би вдалося очистити прокинених від темряви. Але ніхто не хоче мене слухати! Вплив ембера вважається тут прокляттям. Всі тільки роблять вигляд, що дбають про спокій наших предків, а насправді ними керує лише страх!\n\nЯкщо рада відмовиться прийняти благословіння вічного життя, ми залишимо Ембер собі. Горе всім, хто порушить спокій нашого святилища.",
         "tokens": null,
         "duplicates": 0
     },
@@ -412,7 +412,7 @@
         "property": "TEXT",
         "original": "The disturbances in Torchlight were more severe than I'd expected - though I must admit I felt a bit relieved. Petty assignments often signal the end of a Vanquisher's career.\\n\\nI came to restore the flow of Ember - but the darkness below Torchlight ran far deeper than the mines.\\n\\nIt would be a test of both my skill and conviction. Evil must be torn out at its root, and this one had buried itself deeply.",
         "translation": "Волнения в Сумеречном оказались сильнее, чем предполагалось. Но надо признаться, я чувствую некоторое облегчение. Незначительные задания зачастую означают завершение карьеры завоевателя.\\n\\nМеня привела сюда цель - восстановить поток эмбера. Но тьма под поселением простирается далеко за пределы шахт.\\n\\nЭто испытание и моего мастерства, и силы моих убеждений. Зло необходимо вырвать с корнем. А это зло окопалось достаточно глубоко.",
-        "new_translation": null,
+        "new_translation": "Заворушення в Торчлайті виявилися значно сильнішими, ніж я очікувала. Хоча, маю зізнатися, що відчуваю певне полегшення. Незначні завдання часто означають кінець кар'єри завойовниці.\n\nМетою мого приходу було відновлення потоку Ембера, але темрява під Торчлайтом простягається далеко за межі копалень.\n\nЦе буде випробуванням і моєї майстерності, і сили моїх переконань. Зло необхідно вирвати з коренем, але це зло засіло досить глибоко.",
         "tokens": null,
         "duplicates": 0
     },
