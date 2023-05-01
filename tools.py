@@ -1,5 +1,7 @@
 import re
 import json
+import subprocess
+import os
 
 tokens_stats = []
 unique_texts = 0
@@ -8,8 +10,42 @@ long_texts = 0
 long_text_length = 64
 
 
+def load_config():
+    return load_json_as_dict(os.path.join(os.getcwd(), 'config.json'))
+
+
+def convert_dat_to_adm():
+    subprocess.run(["./lib/tldat.exe", "./output/TRANSLATION.DAT"])
+
+
 def find(test, my_list):
     return next(filter(test, my_list), None)
+
+
+def save_dict_as_json(path, dictionary, encoding='utf-8'):
+    with open(path, 'w', encoding=encoding) as f:
+        json.dump(dictionary, f, indent=4, ensure_ascii=False)
+
+
+def load_json_as_dict(path, encoding='utf-8'):
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, 'r', encoding=encoding) as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        return None
+
+
+def load_json_as_string(path, encoding='utf-8'):
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, 'r', encoding=encoding) as f:
+            return f.read()
+    except Exception as e:
+        # print(e)
+        return None
 
 
 def parse_translation_string(s):
@@ -48,11 +84,13 @@ def parse_translation_string(s):
     print('\n')
     print(f'tokens stats: ')
 
-    tokens_stats = sorted(tokens_stats, key=lambda kv: kv['count'], reverse=True)
+    tokens_stats = sorted(
+        tokens_stats, key=lambda kv: kv['count'], reverse=True)
     for item in tokens_stats:
         print(f'{item["id"]}: {item["count"]}')
 
-    translations = sorted(translations, key=lambda kv: len(kv['original']), reverse=True)
+    translations = sorted(translations, key=lambda kv: len(
+        kv['original']), reverse=True)
     return translations
 
 

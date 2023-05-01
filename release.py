@@ -1,11 +1,12 @@
 
 import json
-from tools import parse_translation_string, generate_tl_translation
+import os
+from tools import parse_translation_string, generate_tl_translation, convert_dat_to_adm
 
 target_dat_file = "TRANSLATION.DAT"
-translation_mod_file = "TRANSLATION.DAT.mod.json"
+translation_mod_file = "translation.mod.json"
 
-with open(translation_mod_file, 'r', encoding='utf-8') as f:
+with open(os.path.join(os.getcwd(), 'output', translation_mod_file), 'r', encoding='utf-8') as f:
     content = json.loads(f.read())
     content = sorted(content, key=lambda kv: kv['index'])
 
@@ -18,5 +19,7 @@ with open(translation_mod_file, 'r', encoding='utf-8') as f:
 
     tl_translation = generate_tl_translation(content)
 
-    with open(target_dat_file, "w", encoding="utf-16") as f:
+    with open(os.path.join(os.getcwd(), 'output', target_dat_file), "w", encoding="utf-16") as f:
         f.write(tl_translation)
+        convert_dat_to_adm()
+        
