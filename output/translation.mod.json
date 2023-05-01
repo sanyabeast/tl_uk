@@ -1000,7 +1000,7 @@
         "property": "CONTEXTTIPS:TIP_INVENTORY",
         "original": "This is your |cFFFFBA00inventory screen|u. Drag weapons and armor into the appropriate slots to equip them.  Drop items by dragging them into the play area.  Useable items may be activated by right-clicking on them. To use items on your pet, drag them to the pet bowl icon at the top left of the screen, or hold |cFFFFBA00[SHIFT]|u while right-clicking them.",
         "translation": "Это |cFFFFBA00окно снаряжения|u. Перетащите оружие и доспехи в соответствующие ячейки, чтобы использовать их.  Чтобы выбросить предметы, перетащите их из окна в игровую зону.  Предметы, которые можно использовать, активируются щелчком ПКМ. Чтобы применить предмет на питомце, перетащите нужный предмет на миску питомца в левом верхнем углу экрана, либо удерживайте |cFFFFBA00[SHIFT]|u и щелкните ПКМ по предмету.",
-        "new_translation": null,
+        "new_translation": "Це ваше |cFFFFBA00вікно інвентарю|u. Перетягніть зброю та броню до відповідних слотів, щоб їх надіти. Щоб викинути предмети, перетягніть їх до ігрової зони. Предмети, які можна використовувати, можна активувати правим кліком. Щоб використати предмет на своєму улюбленці, перетягніть його на миску для тваринки в лівому верхньому куті екрана або утримуйте |cFFFFBA00[SHIFT]|u та клацніть правою кнопкою миші на предметі.",
         "tokens": {
             "tokens": [
                 {
@@ -2657,7 +2657,7 @@
         "property": "DIALOG:PASSIVE#1:DIALOG",
         "original": "Ember is essential to my work, but these monsters are making it impossible to mine!\\n\\nI am Goren the Enchanter.  For a price, I can imbue your weapons and armor with the magic of Ember.  Be warned, Ember is powerful and even I cannot predict its effect.",
         "translation": "Эмбер необходим мне для работы. Но из-за монстров добыча прекратилась!\\n\\nЯ заклинатель Горен.  За определенную сумму я могу наделить ваше оружие и доспехи магией эмбера.  Но учтите, эмбер - могущественное вещество, и даже я не в силах предсказать его воздействие.",
-        "new_translation": null,
+        "new_translation": "Для мене Ембер незамінний в роботі, але монстри перешкоджають його добуванню!\n\nЯ - Горен, заклинач. За певну суму я можу наділити вашу зброю та броню магією Ембера. Але пам'ятайте, Ембер - могутня річ, і навіть я не можу передбачити її впливу",
         "tokens": null,
         "duplicates": 0
     },
@@ -7773,7 +7773,7 @@
         "property": "DIALOG:PASSIVE#3:DIALOG",
         "original": "If that seer hadn't arrived to fight these monsters, I would already have packed up my gems and left town.  Please, help her if you can!",
         "translation": "Если бы провидица не помогла нам в борьбе с монстрами, мне бы давно пришлось упаковать все камешки и бежать из города.  Пожалуйста, помогите ей, если можете!",
-        "new_translation": null,
+        "new_translation": "Якби не провидиця, що прийшла на допомогу в боротьбі з монстрами, я би вже давно зібрала свої камінці і втекла з міста. Будь ласка, допоможіть їй, якщо можете!",
         "tokens": null,
         "duplicates": 0
     },
