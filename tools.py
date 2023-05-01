@@ -94,24 +94,72 @@ def parse_translation_string(s):
     return translations
 
 
+# def parse_tokens(s):
+#     global tokens_stats
+#     tokens = []
+#     pattern = r'\[([^\]]+)\]|\|c([0-9A-F]{8})([^\|]+)\|u'
+#     matches = re.findall(pattern, s)
+#     variables = 0
+#     colored_prints = 0
+#     for match in matches:
+#         token_id = None
+#         if match[0]:
+#             tokens.append({'type': 'variable', 'value': match[0]})
+#             variables += 1
+#             token_id = f'VAR:{match[0]}'
+#         elif match[1] and match[2]:
+#             tokens.append({'type': 'colored_print',
+#                           'value': match[2], 'color': match[1]})
+#             colored_prints += 1
+#             token_id = f'COLOR:{match[1]}'
+
+#         if (token_id != None):
+#             token_data = find(lambda kv: kv['id'] == token_id, tokens_stats)
+#             if (token_data == None):
+#                 tokens_stats.append({
+#                     "id": token_id,
+#                     "count": 1
+#                 })
+#             else:
+#                 token_data['count'] += 1
+
+#     return {
+#         "tokens": tokens,
+#         "variables": variables,
+#         "colored_prints": colored_prints,
+#         "total": variables + colored_prints
+#     }
+
 def parse_tokens(s):
     global tokens_stats
     tokens = []
-    pattern = r'\[([^\]]+)\]|\|c([0-9A-F]{8})([^\|]+)\|u'
+    pattern = r'\[([^\]]+)\]|\<(LOOKAT=[^\>]+)\>|\|c([0-9A-F]{8})([^\|]+)\|u'
     matches = re.findall(pattern, s)
     variables = 0
     colored_prints = 0
+    directives = 0
     for match in matches:
         token_id = None
         if match[0]:
             tokens.append({'type': 'variable', 'value': match[0]})
             variables += 1
             token_id = f'VAR:{match[0]}'
-        elif match[1] and match[2]:
-            tokens.append({'type': 'colored_print',
-                          'value': match[2], 'color': match[1]})
-            colored_prints += 1
-            token_id = f'COLOR:{match[1]}'
+        elif match[1]:
+            tokens.append({'type': 'directive', 'value': match[1]})
+            directives += 1
+            token_id = f'DIR:{match[1]}'
+        elif match[2] and match[3]:
+            inner_matches = re.findall(pattern, match[3])
+            if inner_matches:
+                for inner_match in inner_matches:
+                    if inner_match[0]:
+                        tokens.append({'type': 'colored_variable', 'value': inner_match[0], 'color': match[2]})
+                        variables += 1
+                        token_id = f'CVAR:{inner_match[0]}'
+            else:
+                tokens.append({'type': 'colored_print', 'value': match[3], 'color': match[2]})
+                colored_prints += 1
+                token_id = f'COLOR:{match[2]}'
 
         if (token_id != None):
             token_data = find(lambda kv: kv['id'] == token_id, tokens_stats)
@@ -127,7 +175,8 @@ def parse_tokens(s):
         "tokens": tokens,
         "variables": variables,
         "colored_prints": colored_prints,
-        "total": variables + colored_prints
+        "directives": directives,
+        "total": variables + colored_prints + directives
     }
 
 
@@ -143,3 +192,15 @@ def generate_tl_translation(d):
         result += "[/TRANSLATION]\n"
     result += "[/TRANSLATIONS]\n"
     return result
+
+
+def migrate_translation(source, target):
+    migrated_items = 0
+    for item in target:
+        existing_item = find(lambda kv: (kv['index'] == item['index'] and kv['new_translation'] != item['new_translation']), source)
+        if (existing_item != None):
+            item['new_translation'] = existing_item['new_translation']
+            migrated_items+=1
+
+    print(f'\nitems migrated - {migrated_items}')
+    return target
