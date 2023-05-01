@@ -100,7 +100,7 @@ def generate_tl_translation(d):
         result += "<STRING>FILE:" + item["file"] + "\n"
         result += "<STRING>PROPERTY:" + item["property"] + "\n"
         result += "<STRING>ORIGINAL:" + item["original"] + "\n"
-        translation = item["new_translation"] if item["new_translation"] != None else item["translation"]
+        translation = item["new_translation"] if item["new_translation"] != None else item["original"]
         result += "<STRING>TRANSLATION:" + translation + "\n"
         result += "[/TRANSLATION]\n"
     result += "[/TRANSLATIONS]\n"
