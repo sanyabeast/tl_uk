@@ -77056,7 +77056,7 @@
         "property": "DISPLAYNAME",
         "original": "Crucible",
         "translation": "Жерло",
-        "new_translation": null,
+        "new_translation": "Тигель",
         "tokens": null,
         "duplicates": 2
     },
@@ -77066,7 +77066,7 @@
         "property": "UISTRINGS:1HANDED",
         "original": "1-handed",
         "translation": "Одноручн.",
-        "new_translation": null,
+        "new_translation": "Одноруч.",
         "tokens": null,
         "duplicates": 0
     },
@@ -77076,7 +77076,7 @@
         "property": "UISTRINGS:2HANDED",
         "original": "2-handed",
         "translation": "Двуручн.",
-        "new_translation": null,
+        "new_translation": "Дворуч.",
         "tokens": null,
         "duplicates": 0
     },
@@ -77086,7 +77086,7 @@
         "property": "UISTRINGS:EQUIPPED",
         "original": "equipped",
         "translation": "используется",
-        "new_translation": null,
+        "new_translation": "споряджено",
         "tokens": null,
         "duplicates": 0
     },
@@ -77106,7 +77106,7 @@
         "property": "UISTRINGS:CONTINUE",
         "original": "Continue",
         "translation": "Продолжить",
-        "new_translation": null,
+        "new_translation": "Далі",
         "tokens": null,
         "duplicates": 0
     },
@@ -77116,7 +77116,7 @@
         "property": "UISTRINGS:COMPLETE",
         "original": "Complete",
         "translation": "Завершено",
-        "new_translation": null,
+        "new_translation": "",
         "tokens": null,
         "duplicates": 0
     },
@@ -77126,7 +77126,7 @@
         "property": "UISTRINGS:PURCHASE",
         "original": "Purchase",
         "translation": "Приобрести",
-        "new_translation": null,
+        "new_translation": "Придбати",
         "tokens": null,
         "duplicates": 0
     },
@@ -77136,7 +77136,7 @@
         "property": "UISTRINGS:INFLICTS",
         "original": "Inflicts",
         "translation": "Наносит",
-        "new_translation": null,
+        "new_translation": "Завдає",
         "tokens": null,
         "duplicates": 0
     },
@@ -77156,7 +77156,7 @@
         "property": "UISTRINGS:ABSORBED",
         "original": "Absorbed",
         "translation": "Поглощено",
-        "new_translation": null,
+        "new_translation": "Поглинено",
         "tokens": null,
         "duplicates": 0
     },
