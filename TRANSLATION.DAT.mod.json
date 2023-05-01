@@ -5,7 +5,7 @@
         "property": "TEXT",
         "original": "- Remnant from Alric's Journal - \\n\\nI have basked in his presence. The voice in the Ember is only a shadow of Ordrak's true glory. I find now that I have no desire other than to serve him, and to show his glory to the world.\\n\\nMy years of study are nothing to Ordrak's vast centuries dwelling in Ember, but still my knowledge sometimes surpasses his. His spirit infuses the Ember, it could be concentrated further, bringing his voice to the world.\\n\\nSyl will see the potential. Together, we will free Ordrak from this mountain. Kingdoms will kneel before us, blinded by the radiance of our ascendancy! None will dare question the virtue of our art, or the power of Ordrak.",
         "translation": "- Отрывок из дневника Алрика - \\n\\nЯ купаюсь в лучах его присутствия. Голос эмбера - лишь тень истинного могущества Ордрака. Теперь я понимаю, что единственное мое желание - служить ему. Рассказать миру о его могуществе.\\n\\nМои годы учений - ничто по сравнению с веками, которые Ордрак провел внутри эмбера. И все же в некоторых случаях мои знания превосходят его. Его дух пропитывает эмбер. Его можно еще больше сконцентрировать и позволить миру услышать его голос.\\n\\nСил поймет, какой в этом скрыт потенциал. Вместе мы освободим Ордрака из этой горы. Перед нами будут преклоняться целые королевства, ослепленные светом нашего господства! Никто не посмеет усомниться в достоинствах нашего искусства и в силе Ордрака.",
-        "new_translation": null,
+        "new_translation": "Витримка з щоденника Алріка - \n\nЯ купаюся в променях його присутності. Голос Вогника - лише тінь справжньої могутності Ордрака. Тепер я розумію, що єдине моє бажання - служити йому. Розповісти світу про його могутність.\n\nМої роки вивчення - ніщо порівняно з віками, які Ордрак провів усередині Вогника. І все ж у деяких випадках мої знання перевершують його. Його дух пронизує Вогник. Його можна ще більше сконцентрувати і дозволити світу почути його голос.\n\nСила зрозуміє, який потенціал тут прихований. Разом ми звільнимо Ордрака з цієї гори. Перед нами будуть схилятися цілі королівства, осліплені світлом нашого господарства! Ніхто не осмілиться сумніватися в достоїнствах нашого мистецтва та в силі Ордрака.",
         "tokens": null,
         "duplicates": 0
     },
@@ -35,7 +35,7 @@
         "property": "TEXT",
         "original": "- Remnant from Alric's Journal - \\n\\nThe dwarves were consumed both from below and from within. Ordrak's minions assaulted the fortress, and his essence flowed through the Ember and turned them to his side. The remains of the battle are all around me, but my understanding comes from the Ember. He speaks to me through the veins, and I cannot shut my ears to his voice.\\n\\nDespite his immense strength, Ordrak cannot leave the source of his immortality. His essence reaches out through the veins and corrupts without purpose.\\n\\nSuch power could transform the world, if only it were freed from this mountain.",
         "translation": "- Отрывок из дневника Алрика - \\n\\nГномов поглотили как снизу, так и изнутри. Слуги Ордрака напали на крепость. Его сущность через эмбер проникла к гномам и обратила их на его сторону. Вокруг меня жертвы той битвы. Но знания приходят ко мне от эмбера. Он говорит со мной через жилы, и я не в силах заглушить его голос.\\n\\nНесмотря на свою огромную силу, Ордрак не может покинуть источник своего бессмертия. Его сущность проникает через эмбер и вредит всем без какой-либо цели.\\n\\nТакая сила могла бы изменить весь мир, если бы он только мог покинуть эту гору.",
-        "new_translation": null,
+        "new_translation": "Виток з днівника Алріка - \n\nГномів поглинули як знизу, так і зсередини. Налетів Ордрак та його слуги на фортецю, а його сутність проникла через Вуглинку та звернула їх на свій бік. По всій місцевості залишилися сліди бою, але моє розуміння приходить від Вуглинки. Він говорить зі мною через вени, і я не можу заглушити його голос. \n\nНезважаючи на свою безмежну силу, Ордрак не може покинути джерело своєї бессмертності. Його сутність поширюється через жилки і відчувається його вплив на все, що є. \n\nТака сила могла б перетворити світ, якби тільки була вільна від цієї гори.",
         "tokens": null,
         "duplicates": 0
     },
@@ -45,7 +45,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "Hey there stranger, welcome to Torchlight.  I'm Hatch, richest man in town.  Well, that's my plan anyhow.\\n\\nI haven't worked out all the details yet, but the key is this here wand.  It opens a |cFFFFBA00portal|u to one particular spot, and I'm sure it must be full of treasure.  Problem is, it's also full of monsters, so I can't have a look for myself.\\n\\nIf you can handle the monsters and bring me the best |cFFFFBA00treasure|u you find in there, you can keep any gold and weapons for yourself.  Be careful though, I don't think any other portals will work in there.  What do you say?",
         "translation": "Приветствую. Добро пожаловать в Сумеречный.  Я Хатч, самый богатый человек в этом городе.  Вернее, скоро им стану.\\n\\nЯ еще не все детали продумал, но главное, что мне поможет - вот этот самый жезл.  Он открывает |cFFFFBA00портал|u в одно определенное место, где, я просто уверен, полным-полно сокровищ.  Проблема в том, что там еще и полным-полно монстров. Поэтому я сам туда отправиться не могу.\\n\\nЕсли избавишься от этих монстров и принесешь мне самое ценное |cFFFFBA00сокровище|u, которое там найдешь, все золото и оружие сможешь оставить себе.  Только осторожнее. Никакие другие порталы там работать не будут.  Что скажешь?",
-        "new_translation": null,
+        "new_translation": "Ласкаво просимо до Торчлайту, незнайомче. Я Хетч, найбагатший чоловік у місті. Ну, це моє майбутнє планування, якщо все вийде за планом.\n\nЯ ще не все розробив, але головне - це ось цей жезл. Він відкриває |cFFFFBA00портал|u в одне певне місце, і я впевнений, що там повно скарбів. Проблема в тому, що там також повно монстрів, тому я сам не можу туди зайти.\n\nЯкщо ви зможете впоратися з монстрами і принести мені найкращі |cFFFFBA00скарби|u, які ви там знайдете, ви можете залишити собі будь-яке золото і зброю. Тільки будьте обережні, бо я не думаю, що будь-які інші портали будуть там працювати. Що ви скажете?",
         "tokens": {
             "tokens": [
                 {
@@ -71,7 +71,7 @@
         "property": "TEXT",
         "original": "- Remnant from Alric's Journal - \\n\\nI've arrived in Torchlight and begun my exploration of the tunnels below. These mines are vast and aglow with Ember; I've never seen so rich a vein. Miners labor to extract it, and take no heed of my warnings.\\n\\nI cannot blame them; I too could not resist the pull of Ember.\\n\\nThis Ember is the same as that which afflicts me. The taint within it resonates with the corruption in my bones. I can feel it so clearly now, blight springs from the depths and flows up through the veins.\\n\\nTo purge myself of this evil, I must find the source.",
         "translation": "- Отрывок из дневника Алрика - \\n\\nЯ прибыл в Сумеречный и приступил к исследованию подземных туннелей. Шахты очень обширны и сияют светом эмбера. Никогда еще не приходилось мне видеть столь богатых залежей. Шахтеры заняты добычей и не обращают внимания на мои предупреждения.\\n\\n Я не  могу винить их, притяжению эмбера и мне не удавалось сопротивляться. \\n\\nЭтот эмбер - того же самого свойства, что воздействует на меня. Его порча резонирует с той, что засела в моих костях. Теперь я чувствую это ясно - скверну, распространяющуюся из глубин и текущую по моим венам. \\n\\nЧтобы очиститься от нее, мне придется найти ее источник.",
-        "new_translation": null,
+        "new_translation": "Залишки з щоденника Алріка - \n\nЯ прибув до Торчлайту та розпочав своє дослідження тунелів під землею. Ці копальні такі великі та сяють вогником Емберу; я ніколи не бачив такого багатого жила. Шахтарі добувають його, і не звертають уваги на мої попередження.\n\nЯ не можу винуватити їх; й мені не вдалося протистояти спокусі Емберу.\n\nЦей Ембер такий же, як той, що торкнувся мене. Бруд у ньому резонує з порочністю в моїх кістках. Тепер я відчуваю це настільки чітко, що порочність виступає з глибин та витікає через вени.\n\nЩоб очиститися від цього зла, мені потрібно знайти джерело.",
         "tokens": null,
         "duplicates": 0
     },
@@ -81,7 +81,7 @@
         "property": "TEXT",
         "original": "- Remnant from Alric's Journal - \\n\\nWater pours from the ruins above and falls down into oblivion. These caverns are lost to time, primal. The Ember veins change as I descend- shifting colors, first hidden, then gleaming and glittering. It fascinates me now as it did when I was young.\\n\\nEven the blight seems more pure here. My experiment may have succeeded if I had used Ember from deeper in the mountain, closer to the source. There is still the corruption of course, but with endless life that becomes a small matter.\\n\\nPerhaps I will gain more here than I ever imagined.",
         "translation": "- Отрывок из дневника Алрика - \\n\\nВода стекает из развалин наверху и падает в бездну. Эти пещеры вне времени, они первобытны. Жилы эмбера меняются по мере того, как я спускаюсь. Они меняют цвет, то светятся, то мерцают. Эта картина завораживает меня так же, как в юности.\\n\\nДаже влияние зла здесь кажется не столь сильным. Мой эксперимент мог бы удаcться, если бы я использовал эмбер из глубин горы, из мест ближе к источнику. Разумеется, и здесь есть мрак, но по сравнению с вечной жизнью это мелочи.\\n\\nВозможно, я получу здесь даже большее сокровище, чем рассчитывал.",
-        "new_translation": null,
+        "new_translation": "Відомості з щоденника Алріка - \n\nВода виривається з руїн наді мною і падає в безодню. Ці печери втрачені в часі, первісні. Жилки Емберу змінюються, коли я опускаюся - змінюють свої кольори, спочатку приховані, потім світяться та блискучуть. Це мене захоплює зараз так само, як коли я був молодим. \n\nНавіть зараз порча тут здається більш чистою. Мій експеримент міг би бути успішним, якби я використав Ембер з глибини гори, ближче до джерела. Звичайно, тут також є забруднення, але при нескінченному житті це стає незначним.\n\nМожливо, я знайду тут більше, ніж коли-небудь уявляв.",
         "tokens": null,
         "duplicates": 0
     },
@@ -91,7 +91,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I am the great bard Trill, perhaps you've heard of me?  No?\\n\\nThat's the problem really; despite my astonishing talent, word of my ascendancy has not yet spread among the masses.  My ability is beyond question, but perhaps I have not yet found a tale truly worth telling.\\n\\nPerhaps your heroic deeds will inspire me.  A beast known as |cFFFFBA00Varkaseer|u has been emerging at night to prowl about Torchlight, he is said to be a batlike creature with great power.  His lair is said to be on the third floor of the mine, slay him and I will immortalize your battle in verse!",
         "translation": "Я великий бард Трилл. Наверняка вы обо мне наслышаны.  Нет?\\n\\nВ этом то и проблема. Несмотря на мой изумительный талант, слухи о моем величии пока не достигли ушей толпы.  Мое умение  несомненно велико. Возможно, мне просто еще не попалась достойная история.\\n\\nКто знает, может, ваши героические подвиги вдохновят меня. Чудовище, которое все называют |cFFFFBA00Варкавидец|u, ночами бродит по Сумеречному. Говорят, будто оно похоже на летучую мышь и обладает великой силой.  Его логово якобы находится на третьем уровне шахты. Убейте его, и я увековечу ваше имя в балладах!",
-        "new_translation": null,
+        "new_translation": "Я - великий бард Трилл. Можливо, ви про мене чули? Ні?\n\nОсь у чому проблема. Незважаючи на мій захоплюючий талант, слова про мою величність ще не поширилися серед мас. Мій талант безперечний, але, можливо, мені ще не потрапилась історія, справді варта розповіді.\n\nМожливо, ваші героїчні подвиги мене надихнуть. Тварина, відома як |cFFFFBA00Варкавидець|u, виходить на світло ночами, щоб блукати по Торчлайту. Кажуть, вона схожа на кажана і має величезну силу. Її лігво, за словами, знаходиться на третьому поверсі шахти. Завершіть її, і я увіковічню вашу битву у віршах!",
         "tokens": {
             "tokens": [
                 {
@@ -112,7 +112,7 @@
         "property": "TEXT",
         "original": "The Dark Ember...  I do not yet understand it.  Does it have any purpose now that Ordrak has been destroyed?\\n\\nOrdrak harnessed the energy of an entire mountain of Ember, but he could never leave the focal point of his web.  He was a prisoner of his own power, but was the Dark Ember meant to free him?  That would mean it had the power to channel energy directly from the focal point.\\n\\nImagine it, the power of an entire mountain of Ember in the palm of my hand!\\n\\nI have so much more to learn, I may not be leaving Torchlight for quite some time...\\n\\n",
         "translation": "Темный эмбер...  До сих пор не понимаю его природы.  Есть ли в нем смысл, раз Ордрак уничтожен?\\n\\nОрдрак обуздал энергию всей горы эмбера, но сам навсегда застрял в центре своей паутины.  Он был пленником собственного могущества.  Может быть, темный эмбер должен был его освободить?  Если так, значит, он способен управлять энергией напрямую из центра.\\n\\nПредставить только. Сила всей горы эмбера в одной моей руке!\\n\\nМне еще многому предстоит научиться. Видимо, нескоро мне удастся покинуть Сумеречный...\\n\\n",
-        "new_translation": null,
+        "new_translation": "Темний Ембер ... Я ще не розумію його суті. Чи має він якусь мету зараз, коли Ордрак знищений? \n\nОрдрак володів енергією цілої гори Ембера, але ніколи не міг покинути центр своєї павутини. Він був заручником своєї власної влади, але чи мав Темний Ембер звільнити його? Це означало б, що він має здатність прямо керувати енергією з центру. \n\nУявіть, сила цілої гори Ембера в долоні моєї руки! \n\nМені ще багато чого потрібно навчитися, і, мабуть, я довго не покину Сумеречний ... \n\n",
         "tokens": null,
         "duplicates": 0
     },
@@ -122,7 +122,7 @@
         "property": "TEXT",
         "original": "- Remnant from Alric's Journal - \\n\\nThe miners chip their way down through the rock, unaware of the tombs below.  When they finally break through, I hope they are wise enough to flee, collapsing their tunnels behind them.\\n\\nThis vault was rightly sealed; it was an experiment as ill-fated as my own. Their ancestors are animated not with life, but with the same dark energy that flows through the Ember veins. Separating out the vileness is impossible.  Immortality lies forever beyond our reach.\\n\\nI was a fool to think otherwise.",
         "translation": "- Отрывок из дневника Алрика - \\n\\nШахтеры пробивают ходы вниз, не подозревая о находящихся там захоронениях.  Надеюсь, когда они проникнут туда, им хватит ума сбежать и обрушить за собой туннели.\\n\\nЭтот склеп был опечатан не просто так. Это был эксперимент, который пошел неверным путем, такой же, как и мой. Их предков двигала не жизнь, но та же темная энергия, которая струится по жилам эмбера. Отделить ее от зла невозможно. Бессмертие останется вне нашей досягаемости. \\n\\nИ как же глупо было думать иначе.",
-        "new_translation": null,
+        "new_translation": "Витримка з днівника Алріка - \n\nШахтарі буряться вниз крізь камінь, не підозрюючи про могили, що знаходяться під ними. Я сподіваюся, що коли вони нарешті дістануться до туди, вони мудріші, щоб утекти, зруйнувавши за собою тунелі.\n\nЦей склеп був правильно запечатаний, це був експеримент, який нещасно закінчився, так само як мій власний. Їхніх предків не життя приводило в рух, а та сама темна енергія, яка протікає по жилах Емберу. Відокремити її від зла неможливо. Безсмертя назавжди залишається поза нашим досягненням.\n\nЯ був дурнем, думаючи інакше.",
         "tokens": null,
         "duplicates": 0
     },
@@ -132,7 +132,7 @@
         "property": "TEXT",
         "original": "Ember is the essence of magic, the keystone of my art. For my kind, Torchlight is a beacon, a place of power, the largest cache of Ember ever found. I had heard nothing of the troubles afflicting that place.\\n\\nI came only to serve my own ends, but I was lost as soon as I set foot in Torchlight.  The evil gathering there swallowed me, and I may never break free of it entirely.\\n\\nThe mines are dark, and below that, the blackness is impossible to describe. There is power beyond imagining, but the price is so very high.",
         "translation": "Эмбер является сущностью магии, краеугольным камнем моего искусства. Для таких, как я, Сумеречный - это маяк, место силы, богатейшие запасы эмбера из всех в этом мире. Мне ничего не приходилось слышать о несчастьях, постигших местных жителей.\\n\\nМеня привело сюда лишь желание добиться собственной цели. Но как только мне довелось оказаться в Сумеречном, меня настигла беда.  Скопившееся там зло поглотило меня. Возможно, я никогда не смогу полностью из него высвободиться.\\n\\nВ шахтах темно. А под ними стоит такая чернота, какую не смогут описать никакие слова. Там таится невероятная сила. Но цена слишком высока.",
-        "new_translation": null,
+        "new_translation": "Ембер є сутністю магії, ключовим елементом мого мистецтва. Для моєї родини, Торчлайт - це маяк, місце сили, найбільший запас Емберу, що коли-небудь був знайдений. Я нічого не чув про проблеми, які там відбуваються. \n\nЯ прибув туди лише для своїх власних цілей, але був загублений з моменту, коли поставив на землю свою ногу в Торчлайті. Зло, що там накопичилось, поглинуло мене і, можливо, я ніколи не зможу повністю з нього вийти. \n\nШахти темні, і під ними чорнота, яку неможливо описати словами. Там панує неймовірна сила, але ціна надто висока.",
         "tokens": null,
         "duplicates": 0
     },
@@ -142,7 +142,7 @@
         "property": "DIALOG:PASSIVE#3:DIALOG",
         "original": "Completion of the Dark Ember requires a powerful and willing sacrifice.  Among the servants here, only I am powerful enough to complete the ritual, but Ordrak will need my abilities to direct the Dark Ember's power.\\n\\nSyl is coming closer, she has grown stronger than I realized.  Strong enough to be useful, and she will be as receptive to Ordrak's will as I am.  Still, it will take time for her to understand.  My power wanes when I travel far from the core, I must draw her deep and find her alone.",
         "translation": "Завершение темного эмбера требует могущественной добровольной жертвы.  Среди всех слуг только у меня достаточно могущества, чтобы завершить ритуал. Но Ордраку понадобятся мои умения для управления силой темного эмбера.\\n\\nСил уже близко. Она стала сильнее, чем мне казалось.  Она достаточно сильна, чтобы мы ее использовали. И она так же подвержена влиянию Ордрака, как и я. Тем не менее, на понимание этого ей потребуется время.  Моя сила тает, если я ухожу далеко от центра. Надо заманить ее сюда. Одну.",
-        "new_translation": null,
+        "new_translation": "Завершення темного емберу потребує потужної та добровільної жертви. З усіх слуг лише я маю достатньо потужності, щоб завершити обряд, але Ордраку потрібні мої здібності для управління енергією темного емберу.\n\nСіл стає все ближче, вона стала сильнішою, ніж я думав. Вона достатньо потужна, щоб бути корисною, і вона буде так само піддається впливу Ордрака, як і я. Проте їй знадобиться час, щоб зрозуміти це. Моя сила ослаблюється, коли я віддаляюсь від центру, мені потрібно привабити її сюди. Одну.",
         "tokens": null,
         "duplicates": 0
     },
@@ -152,7 +152,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I can't believe Master Alric has been consumed so completely.  Ordrak is the cause, he has nested in the Ember for time beyond telling.  The twisted creatures in this mountain are a reflection of his heart; his dark spirit runs through their veins.\\n\\nMaster Alric is crafting Dark Ember, he brought me here to assist him.  I would have done so eventually, I can already hear Ordrak's voice calling to me.\\n\\nYou must destroy them, Alric and Ordrak both.  The Dark Ember is abomination we cannot allow.",
         "translation": "Не верится, что Алрика настолько поглотила тьма.  Причиной тому Ордрак. Он обитает среди залежей эмбера с незапамятных времен.  Испорченные твари в этой горе - лишь отражение его сердца. В их жилах течет его темный дух.\\n\\nУчитель Алрик создает темный эмбер. Он позвал меня на помощь.  Рано или поздно я бы ему помогла. Уже сейчас я слышу голос Ордрака.\\n\\nВы должны уничтожить их. И Алрика, и Ордрака.  Нельзя допустить создания темного эмбера.",
-        "new_translation": null,
+        "new_translation": "Не можу повірити, що Майстра Алріка настільки засмутила темрява. Це все вина Ордрака, який засів у відслоненнях Емберу на давні часи. Спотворені істоти в цих горах - це лише відбиття його серця. Його темний дух теке в їхніх жилах.\n\nМайстер Алрік створює Темний Ембер. Він запросив мене на допомогу. Рано чи пізно я б все одно допомогла йому. Я вже чую голос Ордрака.\n\nВам треба їх знищити. І Алріка, і Ордрака. Ми не можемо дозволити створення Темного Емберу.",
         "tokens": null,
         "duplicates": 0
     },
@@ -162,7 +162,7 @@
         "property": "DIALOG:COMPLETE:DIALOG",
         "original": "Aha, the collection is complete!  This is a ghastly piece; the blight has consumed it completely.  I cannot wait to examine it, I can already hear it calling to me...\\n\\nYou know, for research purposes one can never have enough samples.  They're also quite valuable if one can find the right collector.  I'll be able to fund my research for years, and of course you'll have your share of the profit.  Most importantly, I'll have a chance to examine each sample, and learn secrets of the deep.",
         "translation": "Отлично, коллекция завершена!  Это чудовищно, камень полностью охвачен порчей.  Мне не терпится исследовать его, я уже слышу зов...\\n\\nЗнаете, когда речь идет о науке, не бывает слишком крупных образцов.  Кроме того, они весьма высоко ценятся, если найти подходящего покупателя.  Я смогу обеспечить себе годы научной работы и, конечно, не останусь в долгу перед вами.  И, самое главное, у меня будет возможность изучить все образцы и познать тайны глубин.",
-        "new_translation": null,
+        "new_translation": "Колекцію завершено! Цей екземпляр жахливий; порча повністю охопила камінь. Я не можу дочекатись, щоб його дослідити, я вже чую його заклик...\n\nВи знаєте, коли мова йде про науку, не буває занадто багато зразків. Крім того, вони дуже цінуються, якщо знайти відповідного покупця. Я зможу забезпечити собі роки наукової роботи, і, звичайно, я не залишу вас без добра. І, найголовніше, у мене буде можливість досліджувати кожен зразок та дізнаватись таємниці глибин.",
         "tokens": null,
         "duplicates": 0
     },
@@ -172,7 +172,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "I had heard of corruption in Torchlight's Ember, but I did not think it was so dangerous.  The Overseer dwelt amongst it for decades before it rotted his sanity away, why have you and Master Alric been affected so quickly?\\n\\nWhat matters now is finding a cure.  Search the crypts below the mines for the Overseer's Library.  You may find the Overseer himself still guards it, you will need to find the strength to overcome him.\\n\\nBeware of Alric, he is incredibly powerful.",
         "translation": "Мне приходилось слышать, что эмбер в Сумеречном испорчен тьмой. Но кто бы мог подумать, что он настолько опасен.  Смотритель жил среди залежей эмбера десятилетиями, пока эмбер полностью не лишил его рассудка. Почему же на вас и на учителя Алрика эмбер действует так быстро?\\n\\nГлавное сейчас - найти лекарство.  Обыщите склепы под шахтами и найдите библиотеку Смотрителя.  Возможно, ее до сих пор охраняет сам Смотритель. Вам придется найти в себе силы и одолеть его.\\n\\nОстерегайтесь Алрика. Он слишком могуществен.",
-        "new_translation": null,
+        "new_translation": "Я чув про порчу Емберу в Торчлайті, але не думав, що вона настільки небезпечна. Сторож прожив тут десятиліття серед залізних складів Емберу, поки він повністю не знедужав. Чому ж на вас і на вчителя Альрика Ембер діє настільки швидко?\n\nНайголовніше зараз - знайти ліки. Обшукайте крипти під шахтами та знайдіть бібліотеку Сторожа. Можливо, що він досі охороняє її. Вам доведеться знайти сили, щоб перемогти його.\n\nСтежте за Альриком. Він надзвичайно могутній.",
         "tokens": null,
         "duplicates": 0
     },
@@ -182,7 +182,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I'm a bit overwhelmed friend.  Brink is dead, my master is lost, and I feel responsible for your corruption as well.  Somehow the blighted Ember is fusing with your flesh, changing it - but at least the progress is slow.\\n\\nI have some knowledge of the crypts below the mine.  The Overseer experimented with methods of purifying Ember, we may be able to use his knowledge to purge the corruption from you now.\\n\\nFind the Overseers Library, his notes should be there.",
         "translation": "У меня много дел, друг мой.  Бринк мертв, учитель на стороне зла, и я повинна в вашем заражении.  Каким-то образом порченый эмбер проникает в вашу плоть, изменяя ее. Но процесс хотя бы замедлен.\\n\\nЯ знаю, что под шахтами находятся склепы.  Смотритель проводил эксперименты по очищению эмбера. Возможно, нам удастся использовать его знания, чтобы избавить вас от воздействия эмбера.\\n\\nРазыщите библиотеку Смотрителя. Там должны быть его записи.",
-        "new_translation": null,
+        "new_translation": "У мене багато справ, мій друг. Брінк помер, учитель зійшов на сторону зла, і я почуваю себе відповідальною за ваше зараження. Якимось чином порочний Ембер проникає в ваше тіло і змінює його. Проте процес хоча б сповільнений. \n\n Я знаю, що під шахтами є крипти. Смотритель експериментував з методами очищення Ембера, і, можливо, ми зможемо використати його знання, щоб очистити вас від корупції зараз. \n\n Знайдіть бібліотеку Смотрителя, його записи повинні там бути.",
         "tokens": null,
         "duplicates": 0
     },
@@ -192,7 +192,7 @@
         "property": "DIALOG:COMPLETE:DIALOG",
         "original": "I can see it now.  You, weary from battle, your sword wavering in your hands.  |cFFFFBA00[DEFEAT1]|u, cackling with vile laughter, wielding a giant flaming club.  For a moment, you thought all was lost- but then, a rush of inspiration!\\n\\nYou remembered your mother, no, your love!  Yes, your far away love, and your promise to return!  In a rush of righteous fury, you struck the fiend down, and returned here victorious!\\n\\nHa, I will make you the hero of our age!",
         "translation": "Отлично себе представляю.  Вы устали от боя, меч дрожит в руках.  |cFFFFBA00[DEFEAT1]|u злобно хохочет, размахивая огромной пылающей палицей.  На секунду вы решили, что все пропало. Но вдруг пришло второе дыхание!\\n\\nВы вспомнили свою мать... Нет, свою любовь!  Да, свою далекую вторую половинку и свое обещание вернуться!  И в порыве праведного гнева вы сокрушили демона и вернулись сюда с победой!\\n\\nХа, я сделаю из вас героя эпохи!",
-        "new_translation": null,
+        "new_translation": "Я бачу це перед собою. Ви, втомлені від бою, меч тремтить у руках. |cFFFFBA00[DEFEAT1]|u, зі злобним сміхом махаючи гігантською горячою булавою. На мить ви подумали, що все втрачено. Але раптом прийшла друге подих!\n\nВи згадали свою матір... Ні, своє кохання! Так, свою далеку другу половинку та свою обіцянку повернутися! І в пориві праведної гніву ви зламали демона і повернулись сюди з перемогою!\n\nХа, я зроблю з вас героя епохи!",
         "tokens": {
             "tokens": [
                 {
@@ -249,7 +249,7 @@
         "property": "DIALOG:INTRO:DIALOG#5",
         "original": "When I was built, my creator and I would often see bards entertaining people on street corners, it's what inspired me to greatness!  Of course he doesn't see it that way, not yet.\\n\\nI recall a tale of a mighty fiend, |cFFFFBA00[DEFEAT1]|u, who slew countless warriors before disappearing into the wild.  I believe it's here, just |cFFFFBA00[DEFEAT1DEPTH]|u floors below Torchlight!  Isn't it thrilling?  Cut the beast down and I shall make heroes of us both!",
         "translation": "Когда меня собрали, мы с моим создателем часто видели, как барды на улицах развлекают народ. Это меня и вдохновило!  Конечно, он со мной не согласен. Пока еще.\\n\\nМне вспоминаются сказания о могущественном чудище по имени |cFFFFBA00[DEFEAT1]|u. Он убил великое множество воинов, а затем исчез.  Я верю, что он еще тут, всего в |cFFFFBA00[DEFEAT1DEPTH]|u уровнях под Сумеречным!  Аж дух захватывает, да?  Уничтожьте чудище, и я прославлю нас обоих!",
-        "new_translation": null,
+        "new_translation": "Як мене зібрали, я з моїм творцем часто спостерігав, як барди на вулицях розважають людей. Це мене надихнуло на величність! Звичайно, він не розуміє цього. Поки що. \n\nЯ пригадую легенду про могутнє чудовисько на ім'я |cFFFFBA00[DEFEAT1]|u. Воно знищило безліч воїнів, а потім зникло. Я вірю, що воно ще тут, всього лише на |cFFFFBA00[DEFEAT1DEPTH]|u рівнях під Торчлайтом! Це ж захоплююче, чи не так? Знищте це чудовисько, і я прославлю нас обох!",
         "tokens": {
             "tokens": [
                 {
@@ -4209,7 +4209,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "<LOOKAT=ALRIC>Master Alric!  You would never serve such a destructive power, it's the corrupted Ember affecting your mind.  If Ordrak is the source of this plague, then it is our duty to destroy him!",
         "translation": "<LOOKAT=ALRIC>Учитель Алрик!  Вы бы никогда не стали служить столь разрушительной силе. Это все влияние темного эмбера.  Если источником этой чумы является Ордрак, наш долг - уничтожить его!",
-        "new_translation": null,
+        "new_translation": "<LOOKAT=ALRIC>Майстер Алрік! Ви ніколи не стали б служити такій руйнівній силі. Це все вплив темного Емберу. Якщо джерелом цієї хвороби є Ордрак, то наш обов'язок - знищити його!",
         "tokens": null,
         "duplicates": 0
     },
@@ -11265,7 +11265,7 @@
         "property": "LOADINGTIPS:TIP#3",
         "original": "Use the mousewheel to zoom in and out - clicking the mousewheel button will reset your view.",
         "translation": "Используйте колесико мыши, чтобы приблизить или отдалить изображение. Щелкните колесиком мыши, чтобы сбросить настройки масштабирования.",
-        "new_translation": null,
+        "new_translation": "Використовуйте колесико миші, щоб збільшувати або зменшувати зображення. Клацніть кнопкою колесика миші, щоб скинути масштаб.",
         "tokens": null,
         "duplicates": 0
     },
