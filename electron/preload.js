@@ -40,7 +40,7 @@ function when_page_ready() {
 function get_translation(params) {
     return new Promise((resolve, reject) => {
         let frame = document.createElement('iframe')
-        frame.src = `https://translate.google.com/?sl=${params.from_language}&tl=${params.to_language}&text=${params.text}&op=translate`
+        frame.src = `https://translate.google.com/?sl=${params.from_language}&tl=${params.to_language}&text=${encodeURIComponent(params.text)}&op=translate`
         frame.style.position = 'fixed'
         frame.style.top = '0'
         frame.style.left = '0'
@@ -56,14 +56,14 @@ function get_translation(params) {
                 clearInterval(id)
                 setTimeout(() => {
                     resolve(translated.textContent)
-                    frame.remove()
+                    //frame.remove()
                 }, 500)
             }
 
             if (+new Date() - started_at > 30 * 1000) {
                 reject()
                 clearInterval(id)
-                frame.remove()
+                //frame.remove()
             }
         }, 500)
 
