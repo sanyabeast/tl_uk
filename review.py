@@ -3,7 +3,6 @@ import json
 import os
 from tools import parse_translation_string, generate_tl_translation, convert_dat_to_adm, load_json_as_dict, save_dict_as_json, filter_unique
 
-
 translation_mod_file = "translation.mod.json"
 
 translation_mod_data = load_json_as_dict(
@@ -30,7 +29,7 @@ unique_items = filter_unique(lambda kv: kv['original'], translation_mod_data)
 translated_items = list(
     filter(lambda kv: kv['new_translation'] != None, unique_items))
 not_translated_items = list(
-    filter(lambda kv: kv['new_translation'] != None, unique_items))
+    filter(lambda kv: kv['new_translation'] == None, unique_items))
 items_with_tokens = list(
     filter(lambda kv:  kv['tokens'] != None, unique_items))
 
@@ -73,3 +72,8 @@ print('most duplicated items:')
 print(json.dumps(most_duplicated_items, indent=4))
 print('longest items:')
 print(json.dumps(longest_items, indent=4))
+
+print('\n')
+print(f'saving modified {translation_mod_file} with filled dups')
+save_dict_as_json(os.path.join(os.getcwd(), 'output',
+                  'translation.mod.json'), translation_mod_data, encoding='utf-8')
