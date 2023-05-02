@@ -204,3 +204,13 @@ def migrate_translation(source, target):
 
     print(f'\nitems migrated - {migrated_items}')
     return target
+
+def filter_unique(predicate, iterable):
+    seen = set()
+    result = []
+    for item in iterable:
+        key = predicate(item)
+        if key not in seen:
+            seen.add(key)
+            result.append(item)
+    return result

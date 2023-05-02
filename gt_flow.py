@@ -22,8 +22,31 @@ translation_mod_data = load_json_as_dict(
 
 
 async def translate_ru_to_uk(text):
-    browser = await launch()
+    generic_chrome_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+    
+    browser = await launch({
+        "headless": False,
+        "args": ['--no-sandbox']
+    })
     page = await browser.newPage()
+    await page.setUserAgent(generic_chrome_user_agent)
+
+    await page.evaluateOnNewDocument(pageFunction='''
+    () => {
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => false,
+        });
+    }
+    ''');
+    await page.evaluateOnNewDocument('''
+    () => {
+        // We can mock this in as much depth as we need for the test.
+        window.navigator.chrome = {
+            runtime: {},
+            // etc.
+        };
+    }
+    ''')
     
     url = "https://translate.google.com/?sl=ru&tl=uk&op=translate"
     await page.goto(url)
