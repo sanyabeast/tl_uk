@@ -290,7 +290,7 @@
         "property": "TEXT",
         "original": "- Remnant from Alric's Journal - \\n\\nThe beauty of these sunken gardens shines through an age of dust and decay. Why did they fall to ruin? Could the same corruption that affects me now be responsible for this centuries old destruction?\\n\\nThe thought that this blight could be so ancient unnerves me, but if it consumes me I must go deep enough that I can never escape to do harm.\\n\\nAnd, there is still hope. A fool's hope, but I cling to it.",
         "translation": "- Отрывок из дневника Алрика - \\n\\nКрасота этих садов все еще видна, несмотря на вековую пыль и обветшание. Почему они оказались разрушенными? Вдруг та же тьма, что завладела мной, ответственна и за эти древние разрушения?\\n\\nМысль о том, что это зло может быть настолько древним, нервирует меня, но если это оно пожирает меня, я должен зайти настолько далеко, чтобы уже никогда не вырваться, причиняя вред другим. \\n\\nНо есть еще надежда. Тщетная, конечно, но мне приходится держаться за нее.",
-        "new_translation": null,
+        "new_translation": "Уривок з щоденника Алріка - \n\nКраса цих садів ще дихає крізь столітній пил та відтінки в'ялості. Як могли вони стати руїнами? Може, та сама темрява, що охопила мене, винна і в цих давніх зруйнуваннях?\n\nДумка про те, що це зло може бути настільки давнім, сповнює мене тривогою, але якщо це саме зло, що пожирає мене, то мені доведеться зануритися так глибоко, щоб вже ніколи не змогти вирватися, навіть за ціною шкоди іншим. \n\nАле ще ж існує надія. Марна, безсумнівно, але я не можу відпустити її.",
         "tokens": null,
         "duplicates": 0
     },
@@ -320,7 +320,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "Were you drawn here by the lure of Ember?  Perhaps my master was as well.\\n\\nMaster Alric called me here, but there is no sign of him in town.  These creatures ambushed us as we were about to enter the mines.  They may have ambushed Alric as well, but I doubt it- he would not be overcome so easily.\\n\\nI need time to question the townsfolk and recover from battle.  Brink has been with me for a long time now- please, watch over him for me.",
         "translation": "Вас привлекло сюда притяжение эмбера?  Видимо, и моего учителя тоже.\\n\\nМеня вызвал сюда учитель Алрик, но в городе его не оказалось.  Эти твари напали на нас у входа в шахту.  Возможно, они и на Алрика напали, но я в этом сомневаюсь. Его не так просто одолеть.\\n\\nМне нужно время, чтобы порасспрашивать местных и восстановить силы после боя.  Мы с Бринком давно уже работаем вместе. Пожалуйста, присмотрите за ним ради меня.",
-        "new_translation": null,
+        "new_translation": "Чи вабить вас сюди магнетизм емберу? Схоже, мого вчителя також. \n\nМене сюди викликав учитель Алрік, але в місті його не було. Ці створіння напали на нас біля входу в шахту. Можливо, вони напали й на Алріка, але я сумніваюся в цьому. Його не так просто подолати.\n\nМені потрібен час, щоб розпитати місцевих та відновити сили після бою. Ми з Брінком вже довго працюємо разом. Будь ласка, подбайте про нього заради мене.",
         "tokens": null,
         "duplicates": 0
     },
@@ -330,7 +330,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "The Savage Ember is sometimes found near molten rock, look for it there.  I will of course reward you for any samples you find.\\n\\nI'm troubled by the results of my research so far.  It seems that all of the Ember Veins are being influenced by a single source, something far below the mountain.  I will require deeper samples to learn more about the nature of the impurities, but there is something menacing about what I've found so far.",
         "translation": "Дикий эмбер иногда можно найти у лавовых озер. Поищите его там.  Разумеется, за все найденные образцы вы получите достойное вознаграждение.\\n\\nРезультаты моих исследований начинают меня беспокоить.  Похоже, на все эмберные жилы влияет один источник, находящийся в глубинах под горой.  Мне потребуются образцы с более глубоких уровней, чтобы понять природу вкраплений. Но на данный момент выводы о них неутешительные.",
-        "new_translation": null,
+        "new_translation": "Дикий ембер іноді можна знайти біля лавових озер. Пошукайте його там. Звичайно, за всі знайдені зразки ви отримаєте гідну винагороду.\n\nРезультати моїх досліджень починають мене тривожити. Схоже, всі емберові жили під впливом одного джерела, що знаходиться в глибинах під горою. Мені знадобляться зразки з більш глибоких рівнів, щоб зрозуміти природу вкраплень. Але наразі висновки про них не втішні.",
         "tokens": null,
         "duplicates": 0
     },
@@ -340,7 +340,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "It is no wonder the Estherians' knowledge advanced so quickly, they were perched atop an endless supply of Ember!\\n\\nWe will need all three of the missing destination glyphs.  The Estherians must have hidden them in the ruins to seal off the corruption below.  I expect one is hidden through each of the active rune gates.\\n\\nWe must not waste time.  So far Ember Blight has only made you stronger, but eventually it will control you.",
         "translation": "Неудивительно, что цивилизация эстерийцев развивалась такими темпами. Они сидели на бесконечных запасах эмбера!\\n\\nНам понадобятся все три отсутствующих знака назначения.  Возможно, эстерийцы спрятали их в развалинах, чтобы перекрыть путь тьме.  Думаю, каждый из них спрятан за активными рунными воротами.\\n\\nНельзя терять ни минуты.  Пока эмбер сделал вас сильнее, но рано или поздно он полностью подчинит вас себе.",
-        "new_translation": null,
+        "new_translation": "Не дивно, що цивілізація естерійців розвивалась такими темпами. Вони сиділи на нескінченних запасах емберу!\n\nНам знадобляться всі три відсутні знаки призначення. Можливо, естерійці сховали їх у руїнах, щоб перекрити шлях темряві. Думаю, кожен з них прихований за активними рунними воротами.\n\nНе можна втрачати жодної хвилини. Поки що ембер зробив вас сильнішими, але рано чи пізно він повністю підпорядкує вас собі.",
         "tokens": null,
         "duplicates": 0
     },
@@ -350,7 +350,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "You say this is Alric's doing?  Then his summons was a trap - but why?\\n\\nThe corruption here must have overwhelmed his mind, I can't believe it's so powerful.\\n\\nYes, yes... I see it's touched you as well.  Blight is spreading through you, and if we don't find a way to stop it you'll meet the same fate as Brink.  I'm sorry I brought you into this, I'll do my best to cure you.  Meet me in Torchlight, and I'll tell you my plan.",
         "translation": "Говорите, это дело рук Алрика?  Значит, его приглашение было ловушкой. Но почему?\\n\\nВидимо, он поддался влиянию тьмы, исходящей отсюда. Неужели оно настолько сильно?\\n\\nДа, да... Вижу, оно коснулось и вас.  Тьма захватила вас. Если мы не найдем способ ее остановить, вас ждет та же судьба, что и Бринка.  Мне жаль, что я вас в это впутала. Я сделаю все возможное, чтобы исцелить вас.  Встретимся в Сумеречном. Я посвящу вас в свой план.",
-        "new_translation": null,
+        "new_translation": "Кажете, це робота Алрика? Отже, його запрошення було пасткою. Але навіщо?\n\nСхоже, він піддався впливу темряви, що виходить звідси. Чи справді вона настільки потужна?\n\nТак, так... Бачу, вона торкнулася і вас. Темрява оволоділа вами. Якщо ми не знайдемо спосіб зупинити її, вас чекає та сама доля, що й Брінка. Мені шкода, що я втягнула вас в це. Я зроблю все можливе, щоби вилікувати вас. Зустрінемось в Торчлайті. Я посвящу вас у свій план.",
         "tokens": null,
         "duplicates": 0
     },
@@ -360,7 +360,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "The deepest Ember will show the most signs of corruption.  It will contain the blight in its purest form.  It will be a terrible thing to behold, but my research would be incomplete without an example of Sanguine Ember.\\n\\nI cannot blame you if you don't wish to search for it; I'm certainly not fool enough to tread so close to the source.  Still, if you stumble upon such a foul thing, why not be rewarded for your efforts?",
         "translation": "Глубинный эмбер сильнее всего поражен порчей.  В нем порча содержится в самом чистом виде.  Это прискорбно, но исследование нельзя завершить без образца кровавого эмбера.\\n\\nЯ не буду винить вас в случае отказа. Самому мне просто не хватит безрассудства, чтобы подойти к источнику так близко.  Однако если вы вдруг найдете эту мерзость, стоит ли отказываться от награды?",
-        "new_translation": null,
+        "new_translation": "Глибинний ембер сильніше всього уражений порчею. У ньому порча міститься у найчистішій формі. Це сумно, але дослідження неможливо завершити без зразка кров'яного ембера.\n\nЯ не стану винуватити вас у разі відмови. Мені самому просто не вистачає безглуздості, щоб підійти до джерела так близько. Однак, якщо ви раптом знайдете цю мерзенність, чи варто відмовлятися від винагороди?",
         "tokens": null,
         "duplicates": 0
     },
@@ -370,7 +370,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "It has been a long journey for you - if you wish, you may |cFFFFBA00Retire.|u Be forewarned, retirement is permanent.\\n\\nUpon retiring, you may pass down one of your items as an |cFFFFBA00Heirloom|u to your descendent, and it will be further enhanced.  Your descendent will receive the benefit of your Fame, and begin their own journey with increased skill.\\n\\nCome speak to me again when you wish to |cFFFFBA00Retire.|u",
         "translation": "Вы прошли долгий путь. Если хотите, можете |cFFFFBA00уйти в отставку.|u Учтите, что отставку отменить нельзя.\\n\\nПри выходе в отставку вы сможете передать один из своих предметов, так называемое |cFFFFBA00наследие|u своему потомку. При этом предмет может быть улучшен.  Ваш потомок сможет воспользоваться вашей славой и начать свое собственное путешествие с улучшенными навыками.\\n\\nЗаходите ко мне, когда решите |cFFFFBA00выйти в отставку.|u",
-        "new_translation": null,
+        "new_translation": "Ви пройшли довгий шлях. Якщо бажаєте, ви можете |cFFFFBA00вийти на заслужений відпочинок.|u Зверніть увагу, цей крок є незворотнім.\n\nПри виході на заслужений відпочинок, ви зможете передати одну зі своїх речей як |cFFFFBA00Спадщину|u своєму нащадку, і цей предмет буде додатково покращено. Ваш нащадок отримає переваги ваших славних заслуг, і почне свою власну подорож з більш високими навичками.\n\nЗавітайте до мене знову, коли вирішите |cFFFFBA00вийти на заслужений відпочинок.|u",
         "tokens": {
             "tokens": [
                 {
@@ -422,7 +422,7 @@
         "property": "DIALOG:INTRO:DIALOG#6",
         "original": "This shall be my greatest ballad!  It's true that none of my songs have met with their deserved acclaim so far, but this one shall be different.\\n\\n|cFFFFBA00[DEFEAT1]|u has been terrorizing Torchlight since the first miners arrived, slinking up from its lair |cFFFFBA00[DEFEAT1DEPTH]|u floors below the town.  They will rejoice to hear of its defeat, and it should give them a new appreciation for my talent.",
         "translation": "Это будет моя величайшая баллада!  Да, ни одна из моих песен не получила пока заслуженного признания. Но на этот раз все будет иначе.\\n\\n|cFFFFBA00[DEFEAT1]|u терроризирует Сумеречный с того самого дня, как сюда прибыли первые шахтеры. Его логово находится на |cFFFFBA00[DEFEAT1DEPTH]|u уровне под городом.  Местные жители возрадуются, узнав о его поражении. И это даст им возможность по-настоящему оценить мой талант.",
-        "new_translation": null,
+        "new_translation": "Це буде моя найвеличніша балада! Так, поки що жодна з моїх пісень не здобула належного визнання. Але цей раз буде іншим.\n\n|cFFFFBA00[DEFEAT1]|u тероризує Торчлайт з самого дня, як тут з'явилися перші шахтарі. Його притулок розташований на |cFFFFBA00[DEFEAT1DEPTH]|u рівні під містом. Місцеві мешканці відчують радість, дізнавшись про його поразку. І це дозволить їм по-новому оцінити мій талант.",
         "tokens": {
             "tokens": [
                 {
@@ -449,7 +449,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "Ember is the essence of magic, and it assumes aspects of its environment.  That is why Ember from different locations can appear and behave completely differently.\\n\\nI've heard of a vast |cFFFFBA00necropolis|u buried below the mines.  |cFFFFBA00Deathlace Ember|u can sometimes be found in such places.  Studying such a rare type of Ember is a long held dream of mine.  You'll bring me any you find won't you?",
         "translation": "Эмбер - это сущность магии. Он приобретает свойства своего окружения.  Поэтому эмбер из разных мест может обладать совершенно разными свойствами.\\n\\nМне доводилось слышать, что в глубине под шахтами находится |cFFFFBA00некрополис|u.  В таких местах иногда можно найти |cFFFFBA00смертный эмбер|u.  Я уже давно мечтаю изучить столь редкий эмбер.  Вы не могли бы добыть его для меня?",
-        "new_translation": null,
+        "new_translation": "Ембер - це сутність магії. Він набуває властивостей свого оточення. Тому ембер з різних місць може володіти зовсім різними властивостями.\n\nМені доводилося чути, що у глибині під шахтами знаходиться |cFFFFBA00некрополь|u. У таких місцях іноді можна знайти |cFFFFBA00смертний ембер|u. Я вже давно мрію вивчити такий рідкісний ембер. Чи не могли б ви його добути для мене?",
         "tokens": {
             "tokens": [
                 {
@@ -476,7 +476,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "It's no wonder Master Alric sent for my help, the Ember mines are overrun with these creatures. His letter was urgent, but I had no idea how dire things had become.\\n\\nI am Syl, and that was my companion, Brink.  We've only just arrived in Torchlight, and it looks like we're going to need some help.  You look capable, and I can pay you well.  Please, catch up to Brink before he gets himself killed.",
         "translation": "Неудивительно, что учитель Алрик вызвал меня. Шахты эмбера кишат этими тварями. В письме говорилось, что дело срочное, но я и подумать не могла, что ситуация настолько тяжелая.\\n\\nЯ Сил, а это мой спутник Бринк.  Мы только что прибыли в Сумеречный. Кажется, нам потребуется помощь.  Вы, похоже, человек опытный. Я щедро вас награжу.  Пожалуйста, догоните Бринка, пока его кто-нибудь не убил.",
-        "new_translation": null,
+        "new_translation": "Не дивно, що учитель Алрік викликав мене. Шахти ембера сповнені цими тваринами. В листі йшлося, що справа термінова, але я й подумати не могла, що ситуація настільки важка.\n\nЯ Сіль, а це мій супутник Брінк. Ми тільки що прибули в Торчлайт. Здається, нам знадобиться допомога. Ви, здається, людина з досвідом. Я щедро вас винагороджу. Будь ласка, догоніть Брінка, доки його хтось не вбив.",
         "tokens": null,
         "duplicates": 0
     },
@@ -486,7 +486,7 @@
         "property": "TEXT",
         "original": "Destroying evil is its own reward, but I think I have earned a promotion for this victory.  Although the Vanquishers are a secret order, my king will hear that I was responsible for Ordrak's defeat. \\n\\nSoon I will return home, but there are still treasures below Torchlight that could aid us in the battles to come.  I sense a tide of darkness will soon be upon us, I will be prepared to meet it.",
         "translation": "Уничтожение зла - само по себе награда. Но, по-моему, за эту победу я заслуживаю небольшое повышение.  Хотя Завоеватели - это тайный орден, король узнает о том, что именно мне довелось победить Ордрака. \\n\\nСкоро я отправлюсь домой, но глубины под Сумеречным таят в себе сокровища, которые могли бы помочь нам в будущих битвах.  Есть у меня предчувствие, что скоро нас накроет волна тьмы. Я приготовлюсь к встрече с ней.",
-        "new_translation": null,
+        "new_translation": "Знищення зла - само по собі винагорода. Але, на мою думку, за цю перемогу я заслуговую невелике підвищення. Хоча Завойовники - це таємний орден, король дізнається, що саме мені пощастило перемогти Ордрака. \n\nСкоро я відправлюся додому, але надра під Торчлайтом ховають в собі скарби, які могли б допомогти нам в майбутніх битвах. У мене є передчуття, що скоро нас охопить хвиля темряви. Я готуюсь до зустрічі з нею.",
         "tokens": null,
         "duplicates": 0
     },
@@ -496,7 +496,7 @@
         "property": "TEXT",
         "original": "I have defeated Ordrak, but his darkness still infests the Ember here.  Can he truly be dead while his spirit runs through the veins?\\n\\nThis is not the end of the evils below Torchlight.  I have grown stronger here, but the corruption of our age boils just beneath the surface.  I must continue to hone my skills.\\n\\nI will remain awhile in Torchlight and await the conflict yet to come.\\n\\n\\n",
         "translation": "Мне удалось победить Ордрака, но эмбер здесь все еще пропитан его тьмой.  Можно ли считать его мертвым, раз его дух все еще здесь?\\n\\nЗло под Сумеречным никуда не исчезло.  Мне удалось стать сильнее, но в подземелье растет сила и влияние мрака.  Мне необходимо продолжать оттачивать мастерство.\\n\\nНа какое-то время я останусь в Сумеречном и буду ждать войны.\\n\\n\\n",
-        "new_translation": null,
+        "new_translation": "Мені вдалося перемогти Ордрака, але ембер тут все ще пронизаний його темрявою. Чи можна вважати його мертвим, якщо його дух все ще тут?\n\nЗло під Торчлайтом нікуди не зникло. Мені вдалося стати сильнішим, але у підземеллі сила і вплив мраку зростають. Мені потрібно продовжувати вдосконалювати свою майстерність.\n\nЯ поки що залишуся в Торчлайті і буду чекати війни.\n\n\n",
         "tokens": null,
         "duplicates": 0
     },
@@ -506,7 +506,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "You look like an enterprising individual...  Perhaps I can interest you in a small business opportunity.\\n\\nI have learned of a particularly nasty [DEFEAT1] specimen on floor [DEPTH].  Apparently, this particular [DEFEAT1] carries a [DEFEAT1ACQUIRE1]; an item which would assist me greatly in my work. I am willing to offer a generous reward if you can recover the [DEFEAT1ACQUIRE1] for me.",
         "translation": "А вы, похоже, человек предприимчивый...  Может, я смогу вас заинтересовать одним деловым предложением.\\n\\nМне стало известно, что одно очень злобное существо,  [DEFEAT1], обитает на уровне [DEPTH].  Говорят, эта тварь, [DEFEAT1], обладает одним ценным предметом, который мог бы существенно помочь мне в работе. Это [DEFEAT1ACQUIRE1]. Могу предложить очень щедрую награду, если вы добудете для меня этот артефакт, [DEFEAT1ACQUIRE1].",
-        "new_translation": null,
+        "new_translation": "Здається, ви людина підприємлива... Можливо, я зможу вас зацікавити однією діловою пропозицією.\n\nМені стало відомо, що одна дуже злобна істота, [DEFEAT1], оселяється на рівні [DEPTH]. Кажуть, ця тварина, [DEFEAT1], володіє одним цінним предметом, який міг би суттєво допомогти мені в роботі. Це [DEFEAT1ACQUIRE1]. Можу запропонувати дуже щедру винагороду, якщо ви здобудете для мене цей артефакт, [DEFEAT1ACQUIRE1].",
         "tokens": {
             "tokens": [
                 {
@@ -543,7 +543,7 @@
         "property": "DIALOG:INTRO:DIALOG#2",
         "original": "I had forgotten the air could be so fresh, here above ground.  It has been so long since I have seen the stars...\\n\\nIf you wish to keep this world as it is, you must destroy the champions of the corruption below.  If you delve |cFFFFBA00[DEFEAT1DEPTH]|u floors below the surface, you will find such a champion.  Slay |cFFFFBA00[DEFEAT1]|u and drive the blight further into the depths.",
         "translation": "Как непривычно дышать таким свежим воздухом.  Давно уже мне не приходилось видеть звезды...\\n\\nЕсли хотите, чтобы этот мир остался таким, какой он есть, вам придется уничтожить всех вожаков тьмы в подземелье.  Спустившись на |cFFFFBA00[DEFEAT1DEPTH]|u уровень, вы найдете одного из таких вожаков.  Убейте вожака по имени |cFFFFBA00[DEFEAT1]|u и загоните тьму обратно в бездну.",
-        "new_translation": null,
+        "new_translation": "Як незвично дихати таким свіжим повітрям. Давно вже мені не доводилося бачити зірки...\n\nЯкщо ви хочете, щоб цей світ залишився таким, яким він є, вам доведеться знищити всіх ватажків темряви в підземеллі. Зійшовши на |cFFFFBA00[DEFEAT1DEPTH]|u рівень, ви знайдете одного з таких ватажків. Вбийте ватажка на ім'я |cFFFFBA00[DEFEAT1]|u та відправте темряву назад у безодню.",
         "tokens": {
             "tokens": [
                 {
@@ -570,7 +570,7 @@
         "property": "DIALOG:INTRO:DIALOG#1",
         "original": "Have you returned to stare into the pit?  You seem resistant to its call...\\n\\nI wish my own will had been so strong, I spent an age gathering the strength to extract myself from the corruption below.\\n\\n|cFFFFBA00[DEFEAT1]|u has no wish to be free from the blight.  You will have to use violent persuasion.  Descend to floor |cFFFFBA00[DEFEAT1DEPTH]|u, and you will find your prey.",
         "translation": "Вы вернулись, чтобы заглянуть в пропасть?  У вас, похоже, иммунитет к ее притяжению...\\n\\nЖаль, что моя воля не так сильна. Сколько времени у меня ушло на то, чтобы собраться с силами и оторваться от темного влияния подземелья.\\n\\n|cFFFFBA00[DEFEAT1]|u не желает освобождаться от этой тьмы.  Придется заставить.  Спускайтесь на уровень |cFFFFBA00[DEFEAT1DEPTH]|u, там вы найдете свою жертву.",
-        "new_translation": null,
+        "new_translation": "Ви повернулися, щоб поглянути в безодню? Здається, ви відмінно витримуєте її виклик...\n\nШкода, що моя воля не така міцна. Скільки часу мені знадобилося, щоб набратися сил і вирватися з-під темного впливу підземелля.\n\n|cFFFFBA00[DEFEAT1]|u не має бажання визволятися від цього занепаду. Прийдеться примусити. Спустіться на рівень |cFFFFBA00[DEFEAT1DEPTH]|u, там ви знайдете свою жертву.",
         "tokens": {
             "tokens": [
                 {
@@ -597,7 +597,7 @@
         "property": "DIALOG:INTRO:DIALOG#8",
         "original": "Slay this fiend and they shall sing of your glory through the ages!  Of course, we will know that your fame is truly due to my skill in crafting the verse, but I am not one to brag.\\n\\n|cFFFFBA00[DEFEAT1]|u awaits you in his floor |cFFFFBA00[DEFEAT1DEPTH]|u lair.  I already have the tale of your battle half written, and so far, you appear to be winning.  Don't disappoint me!",
         "translation": "Убейте демона, и ваше имя прославится на века!  Разумеется, своей славой вы будете обязаны исключительно мне и моему поэтическому таланту, но я не люблю хвастаться.\\n\\n|cFFFFBA00[DEFEAT1]|u ждет вас в своем логове на уровне |cFFFFBA00[DEFEAT1DEPTH]|u.  Я уже наполовину закончил балладу о вашем сражении. И на данный момент вы, похоже, побеждаете.  Не разочаруйте меня!",
-        "new_translation": null,
+        "new_translation": "Убий демона, і твоє ім'я прославиться на віки! Звісно, своєю славою ти будеш зобов'язаний виключно мені і моєму поетичному таланту, але я не люблю хвалитися.\n\n|cFFFFBA00[DEFEAT1]|u чекає на тебе в своєму притулку на рівні |cFFFFBA00[DEFEAT1DEPTH]|u. Я вже наполовину закінчив баладу про твою битву. І наразі, здається, ти перемагаєш. Не розчаруй мене!",
         "tokens": {
             "tokens": [
                 {
@@ -624,7 +624,7 @@
         "property": "DIALOG:COMPLETE:DIALOG",
         "original": "You have a real knack for this don't you?  Thank you for finding this Shimmering Ember.  It's beautiful, but marred by the same blight that effects the other pieces.\\n\\nThe results of my research so far are troubling.  The impurities I noticed in the Deathlace Ember are also present in the Ember from the mine, they're easier to see now that I've seen a more striking example.",
         "translation": "А у вас настоящий талант, да?  Спасибо, что нашли для меня мерцающий эмбер.  Он прекрасен. Но его коснулась та же порча, что и другие образцы.\\n\\nПроводить исследования стало сложнее.  Вкрапления, которые я заметил в смертном эмбере, также присутствуют и в эмбере из шахты. Благодаря новым образцам их теперь легче разглядеть.",
-        "new_translation": null,
+        "new_translation": "Ви маєте справжній талант, чи не так? Дякую, що знайшли для мене цей Ембер. Він чудовий, але його зачепила той самий Занепад, що й інші зразки.\n\nПроводити дослідження стало складніше. Включення, які я помітив у Смертельному Ембері, також присутні в Ембері з шахти. Завдяки новим зразкам їх тепер легше помітити.",
         "tokens": null,
         "duplicates": 0
     },
@@ -634,7 +634,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "When the pieces you brought me are near one another, the blight appears to be amplified.  I will keep them well seperated from now on, but still I need more samples for study.\\n\\nSavage Ember has sometimes been found in the caldera of volcanoes, if you delve deep enough you may find the molten rock required for its creation.  Please, bring me any samples you come across.",
         "translation": "Если сложить вместе все найденные вами фрагменты, их темная сила вырастает.  Я держу их отдельно друг от друга. Но мне все равно нужны дополнительные образцы.\\n\\nДикий эмбер иногда можно найти в кальдере вулкана. Если спуститься на достаточную глубину, вы, вероятно, найдете лавовые образования, необходимые для создания такого эмбера.  Если вам попадутся подобные образцы, принесите их мне.",
-        "new_translation": null,
+        "new_translation": "Якщо скласти всі фрагменти, які ви принесли, їх темна сила посилюється. Я тримаю їх окремо один від одного. Але мені все одно потрібні додаткові зразки.\n\nДикий ембер іноді можна знайти в кальдері вулкана. Якщо спуститися на достатню глибину, ви, ймовірно, знайдете розплавлену скельну масу, необхідну для створення такого емберу. Якщо ви натрапите на подібні зразки, принесіть їх мені.",
         "tokens": null,
         "duplicates": 0
     },
@@ -644,7 +644,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
@@ -666,7 +666,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
@@ -688,7 +688,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
@@ -710,7 +710,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
@@ -732,7 +732,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
@@ -754,7 +754,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
@@ -776,7 +776,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "Looking at this book, I don't know how the mountain even holds together.  It seems to be completely filled with disconnected labyrinths and caverns.  Well, more treasure for us I suppose.\\n\\nFor example, there's a |cFFFFBA00[ACQUIRE1]|u in a chamber completely cut off from the rest of the tunnels.  I'll open a portal, and if you can find it, I'll share the wealth.",
         "translation": "Читаю я эту книгу и не понимаю, как эта гора вообще до сих пор стоит.  Такое ощущение, что она вся изрыта туннелями, лабиринтами и пещерами.  Что ж, нам же больше достанется.\\n\\nВот к примеру, в одной пещере, отрезанной от остальных проходов, находится |cFFFFBA00[ACQUIRE1]|u.  Я открою портал, а вы отправляйтесь на поиски. Деньги поделим.",
-        "new_translation": null,
+        "new_translation": "Пригадуючи цю книгу, мені незрозуміло, як ця гора взагалі тримається. Здається, вона цілком заповнена відокремленими лабіринтами і печерами. Ну що ж, нам більше дістанеться.\n\nНаприклад, в одній печері, відірваній від решти ходів, знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви вирушайте на пошуки. Гроші поділимо.",
         "tokens": {
             "tokens": [
                 {
