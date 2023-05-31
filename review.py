@@ -27,6 +27,7 @@ for item in translation_mod_data:
 
 unique_items = filter_unique(lambda kv: kv['original'], translation_mod_data)
 
+
 translated_items = list(
     filter(lambda kv: kv['new_translation'] != None, unique_items))
 not_translated_items = list(
@@ -52,8 +53,36 @@ most_duplicated_items = list(map(lambda kv: f'[{kv["duplicates"]}]: {kv["origina
 longest_items = list(map(lambda kv: f'[{len(kv["original"])}]: {kv["original"][0:72]}...', sorted(
     not_translated_items, key=lambda kv: len(kv['original']), reverse=True)))[0:10]
 
+one_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
+    kv["original"]) > 0 and " " not in kv["original"], sorted(
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+
+one_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
+    kv["original"]) > 0 and kv["original"].count(" ") == 0, sorted(
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+
+two_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
+    kv["original"]) > 0 and kv["original"].count(" ") == 1, sorted(
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+
+three_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
+    kv["original"]) > 0 and kv["original"].count(" ") == 2, sorted(
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+
+# percentage
+translated_text_length = 0
+original_text_length = 0
+
+for item in unique_items:
+    original_text_length += len(item["original"])
+    if item["new_translation"] != None:
+        translated_text_length += len(item["new_translation"])
+
 translated_percentage = "{:.2f}".format(
     (len(translated_items) / len(unique_items)) * 100)
+
+translated_percentage_text = "{:.2f}".format(
+    (translated_text_length / original_text_length) * 100)
 
 #
 # autofix \n\n -> \\n\\n
@@ -63,10 +92,11 @@ for item in translated_items:
             "\n\n", "\\n\\n")
         print(item["new_translation"])
 
-
+print('\n')
 print(
     f'items translated: {len(translated_items)} / {len(unique_items)} unque ({len(translation_mod_data)} total)')
-print(f'{translated_percentage}%')
+print(f'{translated_percentage}% of items')
+print(f'{translated_percentage_text}% of characters')
 print('\n')
 print(f'dups filled: {dups_filled}')
 print('\n')
@@ -82,6 +112,18 @@ print('most duplicated items:')
 print(json.dumps(most_duplicated_items, indent=4))
 print('longest items:')
 print(json.dumps(longest_items, indent=4))
+
+print('\n')
+print('one words:')
+print(json.dumps(one_words, indent=4))
+
+print('\n')
+print('two words:')
+print(json.dumps(two_words, indent=4))
+
+print('\n')
+print('three words:')
+print(json.dumps(three_words, indent=4))
 
 print('\n')
 print(f'saving modified {translation_mod_file} with filled dups')
