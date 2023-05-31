@@ -3,6 +3,7 @@ import json
 import os
 from tools import parse_translation_string, generate_tl_translation, convert_dat_to_adm, load_json_as_dict, save_dict_as_json, filter_unique
 
+
 translation_mod_file = "translation.mod.json"
 
 translation_mod_data = load_json_as_dict(
@@ -53,6 +54,15 @@ longest_items = list(map(lambda kv: f'[{len(kv["original"])}]: {kv["original"][0
 
 translated_percentage = "{:.2f}".format(
     (len(translated_items) / len(unique_items)) * 100)
+
+#
+# autofix \n\n -> \\n\\n
+for item in translated_items:
+    if (item["new_translation"] != None and "\n\n" in item["new_translation"]):
+        item["new_translation"] = item["new_translation"].replace(
+            "\n\n", "\\n\\n")
+        print(item["new_translation"])
+
 
 print(
     f'items translated: {len(translated_items)} / {len(unique_items)} unque ({len(translation_mod_data)} total)')
