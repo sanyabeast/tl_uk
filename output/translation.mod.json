@@ -1244,7 +1244,7 @@
         "property": "DIALOG:INTRO:DIALOG#3",
         "original": "I wish I could fight like you partner, I could keep all these profits for myself!  Well, those monsters would tear me to pieces so it's no good dreaming.\\n\\nLet's get some more treasure!  The tome says a forgotten piece of the mountain holds a lost |cFFFFBA00[ACQUIRE1]|u, I'll open the portal and you can grab the loot.",
         "translation": "Жаль, что я не умею так драться, как вы. Тогда бы не пришлось ни с кем делиться!  Но монстры меня бы враз на куски разорвали, так что нечего мечтать.\\n\\nПора отправляться за новыми сокровищами!  В книге говорится, что в одном из заброшенных уголков подземелья находится |cFFFFBA00[ACQUIRE1]|u. Я открою портал, а вы отправляйтесь за сокровищем.",
-        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\n\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
+        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\\n\\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
         "tokens": {
             "tokens": [
                 {
@@ -1266,7 +1266,7 @@
         "property": "DIALOG:INTRO:DIALOG#3",
         "original": "I wish I could fight like you partner, I could keep all these profits for myself!  Well, those monsters would tear me to pieces so it's no good dreaming.\\n\\nLet's get some more treasure!  The tome says a forgotten piece of the mountain holds a lost |cFFFFBA00[ACQUIRE1]|u, I'll open the portal and you can grab the loot.",
         "translation": "Жаль, что я не умею так драться, как вы. Тогда бы не пришлось ни с кем делиться!  Но монстры меня бы враз на куски разорвали, так что нечего мечтать.\\n\\nПора отправляться за новыми сокровищами!  В книге говорится, что в одном из заброшенных уголков подземелья находится |cFFFFBA00[ACQUIRE1]|u. Я открою портал, а вы отправляйтесь за сокровищем.",
-        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\n\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
+        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\\n\\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
         "tokens": {
             "tokens": [
                 {
@@ -1288,7 +1288,7 @@
         "property": "DIALOG:INTRO:DIALOG#3",
         "original": "I wish I could fight like you partner, I could keep all these profits for myself!  Well, those monsters would tear me to pieces so it's no good dreaming.\\n\\nLet's get some more treasure!  The tome says a forgotten piece of the mountain holds a lost |cFFFFBA00[ACQUIRE1]|u, I'll open the portal and you can grab the loot.",
         "translation": "Жаль, что я не умею так драться, как вы. Тогда бы не пришлось ни с кем делиться!  Но монстры меня бы враз на куски разорвали, так что нечего мечтать.\\n\\nПора отправляться за новыми сокровищами!  В книге говорится, что в одном из заброшенных уголков подземелья находится |cFFFFBA00[ACQUIRE1]|u. Я открою портал, а вы отправляйтесь за сокровищем.",
-        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\n\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
+        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\\n\\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
         "tokens": {
             "tokens": [
                 {
@@ -1310,7 +1310,7 @@
         "property": "DIALOG:INTRO:DIALOG#3",
         "original": "I wish I could fight like you partner, I could keep all these profits for myself!  Well, those monsters would tear me to pieces so it's no good dreaming.\\n\\nLet's get some more treasure!  The tome says a forgotten piece of the mountain holds a lost |cFFFFBA00[ACQUIRE1]|u, I'll open the portal and you can grab the loot.",
         "translation": "Жаль, что я не умею так драться, как вы. Тогда бы не пришлось ни с кем делиться!  Но монстры меня бы враз на куски разорвали, так что нечего мечтать.\\n\\nПора отправляться за новыми сокровищами!  В книге говорится, что в одном из заброшенных уголков подземелья находится |cFFFFBA00[ACQUIRE1]|u. Я открою портал, а вы отправляйтесь за сокровищем.",
-        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\n\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
+        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\\n\\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
         "tokens": {
             "tokens": [
                 {
@@ -1332,7 +1332,7 @@
         "property": "DIALOG:INTRO:DIALOG#3",
         "original": "I wish I could fight like you partner, I could keep all these profits for myself!  Well, those monsters would tear me to pieces so it's no good dreaming.\\n\\nLet's get some more treasure!  The tome says a forgotten piece of the mountain holds a lost |cFFFFBA00[ACQUIRE1]|u, I'll open the portal and you can grab the loot.",
         "translation": "Жаль, что я не умею так драться, как вы. Тогда бы не пришлось ни с кем делиться!  Но монстры меня бы враз на куски разорвали, так что нечего мечтать.\\n\\nПора отправляться за новыми сокровищами!  В книге говорится, что в одном из заброшенных уголков подземелья находится |cFFFFBA00[ACQUIRE1]|u. Я открою портал, а вы отправляйтесь за сокровищем.",
-        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\n\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
+        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\\n\\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
         "tokens": {
             "tokens": [
                 {
@@ -1354,7 +1354,7 @@
         "property": "DIALOG:INTRO:DIALOG#3",
         "original": "I wish I could fight like you partner, I could keep all these profits for myself!  Well, those monsters would tear me to pieces so it's no good dreaming.\\n\\nLet's get some more treasure!  The tome says a forgotten piece of the mountain holds a lost |cFFFFBA00[ACQUIRE1]|u, I'll open the portal and you can grab the loot.",
         "translation": "Жаль, что я не умею так драться, как вы. Тогда бы не пришлось ни с кем делиться!  Но монстры меня бы враз на куски разорвали, так что нечего мечтать.\\n\\nПора отправляться за новыми сокровищами!  В книге говорится, что в одном из заброшенных уголков подземелья находится |cFFFFBA00[ACQUIRE1]|u. Я открою портал, а вы отправляйтесь за сокровищем.",
-        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\n\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
+        "new_translation": "Шкода, що я не вмію битися, як ви. Тоді не довелося б з кимось ділитися! Але монстри розірвали б мене на шматки, тому марно мріяти.\\n\\nПрийшов час рушати за новими скарбами! У книзі сказано, що в одному з забутих куточків підземелля знаходиться |cFFFFBA00[ACQUIRE1]|u. Я відкрию портал, а ви рушайте за скарбом.",
         "tokens": {
             "tokens": [
                 {
@@ -1553,7 +1553,7 @@
         "property": "DIALOG:COMPLETE:DIALOG#4",
         "original": "The stage is a lonely place, my friend, it holds more terror than a thousand fiends.\\n\\nLuckily, you have me to face those dangers, and you need only brave the caverns below.  Have you slain |cFFFFBA00[DEFEAT1]|u already?  Why, I've barely had time to put my thoughts in order!  Tell me everything.",
         "translation": "Сцена - одинокое место, мой друг. Она вселяет ужас сильнее, чем тысяча чудищ.\\n\\nК счастью, вместо вас эту проблему решу я. Вам лишь остается спуститься в подземелье.  |cFFFFBA00[DEFEAT1]|u уже побежден?  Надо же, я не успел даже собраться с мыслями!  Расскажите мне все в подробностях.",
-        "new_translation": null,
+        "new_translation": "Сцена - це самотнє місце, мій друг. Вона лякає більше, ніж тисяча чудовиськ.\\n\\nНа щастя, я вже займаюся цією проблемою замість вас. Вам лишається зійти в підземелля і все. |cFFFFBA00[DEFEAT1]|u вже переможений? О, боже, я навіть не встиг зібратися з думками! Розкажіть мені все докладно.",
         "tokens": {
             "tokens": [
                 {
