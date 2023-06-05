@@ -2583,7 +2583,7 @@
         "property": "DIALOG:RETURN:DIALOG#3",
         "original": "Ah, you've slain |cFFFFBA00[DEFEAT1]|u and come to tell me of your victory!\\n\\nNo?  You have yet to meet him in battle?  If you still have the courage, descend to floor |cFFFFBA00[DEFEAT1DEPTH]|u.  Of course, I could just as easily spread word of your retreat.",
         "translation": "О, |cFFFFBA00[DEFEAT1]|u умерщвлен, и вы пришли похвастаться победой!\\n\\nНет?  Вы еще не сражались с ним?  Если не передумали, спускайтесь на уровень |cFFFFBA00[DEFEAT1DEPTH]|u.  Хотя, если хотите, мне не сложно распустить слухи о вашей трусости.",
-        "new_translation": null,
+        "new_translation": "Що таке? Ти прийшов похвалитись перемогою над |cFFFFBA00[DEFEAT1]|u?\\n\\nНі? Ти ще не зустрівся з ним у бою? Коли не передумав, то спускатись треба на рівень |cFFFFBA00[DEFEAT1DEPTH]|u. Хоча, якщо бажаєш, мені не складно скласти баладу про твій славетний відступ.",
         "tokens": {
             "tokens": [
                 {
@@ -2610,7 +2610,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "The Ember Forge lies far below, finding it will be a difficult task.  I would travel with you, but my study of Ember makes me vulnerable to the corruption.  Here, my strength is a weakness.\\n\\nI will activate the waygate to Torchlight once it is safe to do so.",
         "translation": "Кузница эмбера находится в самых глубинах. Найти ее будет нелегко.  Мне бы хотелось пойти с вами, но после долгой работы с эмбером у меня возникла высокая восприимчивость к его влиянию.  Здесь моя сила является слабостью.\\n\\nЯ активирую переход в Сумеречный, как только это будет возможно.",
-        "new_translation": null,
+        "new_translation": "Кузня ембера лежить глибоко під землею, знайти її буде нелегким завданням. Мені б хотілося піти з вами, але після тривалої роботи з ембером у мене виникла висока сприйнятливість до його впливу. Тут моя сила є слабкістю.\\n\\nЯ активую перехід у Торчлайт, як тільки це буде можливо.",
         "tokens": null,
         "duplicates": 0
     },
@@ -2620,7 +2620,7 @@
         "property": "DIALOG:PASSIVE#5:DIALOG",
         "original": "My sister, Moire, wants to leave Torchlight because of the monsters.  Doesn't she remember what we had to go through to get here?\\n\\nWe came all this way to meet rich Ember miners, and now that we have I'm not going to leave just because of a few rock trolls.",
         "translation": "Моя сестра Мойри хочет из-за чудовищ уехать из Сумеречного.  Неужели она не помнит, через что нам пришлось пройти, чтобы попасть сюда?\\n\\nМы проделали такой долгий путь, чтобы познакомиться с богатыми добытчиками эмбера. И бросить все это из-за парочки троллей?",
-        "new_translation": null,
+        "new_translation": "Моя сестра, Муар, хоче покинути Торчлайт через монстрів. Невже вона не пам'ятає, через що нам довелося пройти, щоб потрапити сюди? Ми пройшли такий довгий шлях, щоб познайомитися з багатими здобувачами Ембера. І кинути все це через пару тролів?",
         "tokens": null,
         "duplicates": 0
     },
@@ -2630,7 +2630,7 @@
         "property": "CONTEXTTIPS:TIP_HEALTHLOW",
         "original": "Your |cFFFFBA00health is low|u. To heal yourself and avoid an untimely demise, |cFFFFBA00right-click on a health potion|u to drink it. You may also press the corresponding number key of any potion mapped to the quick-slot bar at the bottom of the screen.",
         "translation": "У вас |cFFFFBA00низкий уровень здоровья|u. Чтобы исцелиться и избежать безвременной кончины, |cFFFFBA00щелкните ПКМ по зелью здоровья|u и выпейте его. Кроме того, можно нажать клавишу с цифрой, соответствующей номеру ячейки, в которую помещено зелье. Ячейки быстрого доступа расположены в нижней части экрана.",
-        "new_translation": null,
+        "new_translation": "У вас |cFFFFBA00низький рівень здоров'я|u Щоб зцілитись і уникнути передчасної смерті, |cFFFFBA00клацніть ПКМ по зіллю здоров'я|u і випийте його. Ти також можеш натиснути відповідну цифрову клавішу будь-якого еліксиру, прив'язаного до панелі швидкого доступу внизу екрана.",
         "tokens": {
             "tokens": [
                 {
@@ -2667,7 +2667,7 @@
         "property": "CONTEXTTIPS:TIP_FISHING",
         "original": "This is a |cFFFFBA00fishing hole|u. Click the hook icon when the circle goes red and you hear the splash of a bite.  Most of the fish you catch may be used to transform your pet into other creatures.  You may even catch special items from the depths.",
         "translation": "Это |cFFFFBA00рыбное место|u. Щелкните по изображению крючка, когда круг станет красным, и вы услышите плеск рыбы, которая клюет.  Большую часть пойманной рыбы можно использовать для превращения питомца в других созданий.  В глубоких местах можно даже выудить особые предметы.",
-        "new_translation": null,
+        "new_translation": "Це |cFFFFBA00рибне місце|u. Натисніть на зображення гачка, як тільки коло стане червоним, і ви почуєте плескіт риби, що клює. Більшу частину спійманої риби можна використовувати для перетворення вихованця на інших створінь. У глибоких місцях можна навіть вивудити особливі предмети.",
         "tokens": {
             "tokens": [
                 {
@@ -2689,7 +2689,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "We've found it!  I believe I can operate the Forge, books in the Overseers library described it in detail.  I should even be able to remove the corruption without diminishing the strength the Ember has granted you.\\n\\nTake your place on the platform.",
         "translation": "Мы ее нашли!  Думаю, я справлюсь с управлением кузницей. В книгах из библиотеки Смотрителя было достаточно подробное описание.  Возможно, мне даже удастся снять воздействие тьмы и при этом оставить силу, которой наделил вас эмбер.\\n\\nВстаньте на платформу.",
-        "new_translation": null,
+        "new_translation": "Ми її знайшли! Думаю, я впораюся з керуванням кузнею. У книгах з бібліотеки Доглядача був досить детальний опис. Можливо, мені навіть вдасться зняти вплив Потьмарення і при цьому залишити силу, якою наділив вас Ембер.\\n\\nВстаньте на платформу.",
         "tokens": null,
         "duplicates": 0
     },
@@ -2699,7 +2699,7 @@
         "property": "CONTEXTTIPS:TIP_SOCKETABLE",
         "original": "You have discovered a |cFFFFBA00socketable item|u! Socketable items imbue your weapons and armor with new magical properties when inserted.  If you discover an item with sockets, simply install the gemstone by |cFFFFBA00dropping it onto the item|u.",
         "translation": "Вы обнаружили |cFFFFBA00предмет для инкрустации|u! Такие предметы при их инкрустации в оружие или доспехи наделяют последние новыми магическими свойствами.  Если обнаружите предмет с ячейками, просто вставьте камень в одну из этих ячеек, |cFFFFBA00перетащив его на предмет|u.",
-        "new_translation": null,
+        "new_translation": "Ви знайшли |cFFFFBA00предмет для інкрустації|u! Такі предмети надають твоїй зброї та броні нові магічні властивості. Якщо знайдете предмет зі слотами, просто вставте камінь в один з них, |cFFFFBA00перетягнувши його на предмет|u.",
         "tokens": {
             "tokens": [
                 {
@@ -11829,7 +11829,7 @@
         "property": "LEVEL6:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11839,7 +11839,7 @@
         "property": "LEVEL3:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11849,7 +11849,7 @@
         "property": "LEVEL2:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11859,7 +11859,7 @@
         "property": "LEVEL5:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11869,7 +11869,7 @@
         "property": "LEVEL4:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11879,7 +11879,7 @@
         "property": "LEVEL8:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11889,7 +11889,7 @@
         "property": "LEVEL7:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -11899,7 +11899,7 @@
         "property": "LEVEL9:DESCRIPTION",
         "original": "Golem gets upgraded damage, critical hit, and relfects a small static charge on attackers",
         "translation": "Голем способен нанести больший урон, критический удар и отразить в атакующих небольшой заряд статического электричества",
-        "new_translation": null,
+        "new_translation": "Голем здатний завдати більшої шкоди, критичного удару і відбити в атакуючих невеликий заряд статичної електрики.",
         "tokens": null,
         "duplicates": 7
     },
@@ -24932,7 +24932,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Summon Alchemic Golem",
         "translation": "[ITEM] призыва алхимического голема",
-        "new_translation": null,
+        "new_translation": "[ITEM] заклику Алхімічного Голему",
         "tokens": {
             "tokens": [
                 {
@@ -24953,7 +24953,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Advanced Spellcasting",
         "translation": "[ITEM] улучшенных заклинаний",
-        "new_translation": null,
+        "new_translation": "[ITEM] покращених заклинань",
         "tokens": {
             "tokens": [
                 {
@@ -24974,7 +24974,7 @@
         "property": "EFFECT#104:GOODDES",
         "original": "+[VALUE]% Pet and Minion Health",
         "translation": "+[VALUE]% к здоровью питомцев и слуг",
-        "new_translation": null,
+        "new_translation": "+[VALUE]% до здоров'я вихованця та міньйонів",
         "tokens": {
             "tokens": [
                 {
@@ -24995,7 +24995,7 @@
         "property": "EFFECT#104:BADDES",
         "original": "-[VALUE]% Pet and Minion Health",
         "translation": "-[VALUE]% к здоровью питомцев и слуг",
-        "new_translation": null,
+        "new_translation": "-[VALUE]% від здоров'я вихованця та міньйонів",
         "tokens": {
             "tokens": [
                 {
@@ -29589,7 +29589,7 @@
         "property": "LEVEL10:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29599,7 +29599,7 @@
         "property": "LEVEL9:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29609,7 +29609,7 @@
         "property": "LEVEL7:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29619,7 +29619,7 @@
         "property": "LEVEL6:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29629,7 +29629,7 @@
         "property": "LEVEL5:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29639,7 +29639,7 @@
         "property": "LEVEL4:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29649,7 +29649,7 @@
         "property": "LEVEL3:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29659,7 +29659,7 @@
         "property": "LEVEL2:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29669,7 +29669,7 @@
         "property": "LEVEL1:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -29679,7 +29679,7 @@
         "property": "LEVEL8:EVENT_UNITDIE:AFFIXES:ADDITIONALDESCRIPTION",
         "original": "Explosion on Death Causes\\n",
         "translation": "Взрыв, как причина смерти\\n",
-        "new_translation": null,
+        "new_translation": "Вибух, як причина смерті\\n",
         "tokens": null,
         "duplicates": 9
     },
@@ -32452,7 +32452,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish\\n",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши\\n",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу\\n",
         "tokens": null,
         "duplicates": 1
     },
@@ -32462,7 +32462,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish\\n",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши\\n",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу\\n",
         "tokens": null,
         "duplicates": 1
     },
@@ -36197,7 +36197,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36207,7 +36207,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36217,7 +36217,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36227,7 +36227,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36237,7 +36237,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36247,7 +36247,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36257,7 +36257,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36267,7 +36267,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36277,7 +36277,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36287,7 +36287,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36297,7 +36297,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36307,7 +36307,7 @@
         "property": "DESCRIPTION",
         "original": "Right-click to eat fish",
         "translation": "Чтобы съесть рыбу, щелкните правой кнопкой мыши",
-        "new_translation": null,
+        "new_translation": "Клацніть правою кнопкою миші, щоб з'їсти рибу",
         "tokens": null,
         "duplicates": 11
     },
@@ -36497,7 +36497,7 @@
         "property": "DESCRIPTION",
         "original": "Releases shocking bolts",
         "translation": "Выпускает электрические заряды",
-        "new_translation": null,
+        "new_translation": "Жбурляє електричними зарядами",
         "tokens": null,
         "duplicates": 0
     },
@@ -36507,7 +36507,7 @@
         "property": "DESCRIPTION",
         "original": "Spits immobilizing webs",
         "translation": "Стреляет обездвиживающей паутиной",
-        "new_translation": null,
+        "new_translation": "Стріляє павутиною, що знерухомлює.",
         "tokens": null,
         "duplicates": 1
     },
@@ -36517,7 +36517,7 @@
         "property": "DESCRIPTION",
         "original": "Spits immobilizing webs",
         "translation": "Стреляет обездвиживающей паутиной",
-        "new_translation": null,
+        "new_translation": "Стріляє павутиною, що знерухомлює.",
         "tokens": null,
         "duplicates": 1
     },
@@ -36527,7 +36527,7 @@
         "property": "DESCRIPTION",
         "original": "Undead - Resists Poison",
         "translation": "Нежить - Устойчив к отравлению",
-        "new_translation": null,
+        "new_translation": "Непомерлий - Стійкий до отруєння",
         "tokens": null,
         "duplicates": 0
     },
@@ -36537,7 +36537,7 @@
         "property": "PREFIX",
         "original": "Mega-Insulating [ITEM]",
         "translation": "[ITEM] мега-изоляции",
-        "new_translation": null,
+        "new_translation": "[ITEM] Мега-Ізоляції",
         "tokens": {
             "tokens": [
                 {
@@ -36558,7 +36558,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Colossus",
         "translation": "[ITEM] колосса",
-        "new_translation": null,
+        "new_translation": "[ITEM] Колоса",
         "tokens": {
             "tokens": [
                 {
@@ -36579,7 +36579,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Stampede",
         "translation": "[ITEM] натиска",
-        "new_translation": null,
+        "new_translation": "[ITEM] Натиску",
         "tokens": {
             "tokens": [
                 {
@@ -36600,7 +36600,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Elephant",
         "translation": "[ITEM] слона",
-        "new_translation": null,
+        "new_translation": "[ITEM] Слона",
         "tokens": {
             "tokens": [
                 {
@@ -36621,7 +36621,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Mountain",
         "translation": "[ITEM] горы",
-        "new_translation": null,
+        "new_translation": "[ITEM] Гори",
         "tokens": {
             "tokens": [
                 {
@@ -36642,7 +36642,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Enduring",
         "translation": "[ITEM] выносливости",
-        "new_translation": null,
+        "new_translation": "[ITEM] Витривалості",
         "tokens": {
             "tokens": [
                 {
@@ -36663,7 +36663,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Sorcerer",
         "translation": "[ITEM] чародея",
-        "new_translation": null,
+        "new_translation": "[ITEM] Чаклуна",
         "tokens": {
             "tokens": [
                 {
@@ -36684,7 +36684,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Burning Bind",
         "translation": "[ITEM] жгучей привязи",
-        "new_translation": null,
+        "new_translation": "[ITEM] Палаючої Прив'язки",
         "tokens": {
             "tokens": [
                 {
@@ -36705,7 +36705,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Ember Sentry",
         "translation": "[ITEM] эмберного стража",
-        "new_translation": null,
+        "new_translation": "[ITEM] Емберного Вартового",
         "tokens": {
             "tokens": [
                 {
@@ -36726,7 +36726,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Ember Shield",
         "translation": "[ITEM] эмберного щита",
-        "new_translation": null,
+        "new_translation": "[ITEM] Емберного Щита",
         "tokens": {
             "tokens": [
                 {
@@ -36747,7 +36747,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Ember Strike",
         "translation": "[ITEM] эмберного удара",
-        "new_translation": null,
+        "new_translation": "[ITEM] Емберного Удару",
         "tokens": {
             "tokens": [
                 {
@@ -36768,7 +36768,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Frost Shield",
         "translation": "[ITEM] морозного щита",
-        "new_translation": null,
+        "new_translation": "[ITEM] Морозного Щита",
         "tokens": {
             "tokens": [
                 {
@@ -36789,7 +36789,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Shadow Armor",
         "translation": "[ITEM] призрачной брони",
-        "new_translation": null,
+        "new_translation": "[ITEM] Тіньової Броні",
         "tokens": {
             "tokens": [
                 {
@@ -36810,7 +36810,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Slash Attack",
         "translation": "[ITEM] удара сплеча",
-        "new_translation": null,
+        "new_translation": "[ITEM] Розсікаючого Удару",
         "tokens": {
             "tokens": [
                 {
@@ -36831,7 +36831,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Seeking Shot",
         "translation": "[ITEM] самонаводящегося снаряда",
-        "new_translation": null,
+        "new_translation": "[ITEM] Cамонавідного Cнаряда",
         "tokens": {
             "tokens": [
                 {
@@ -36852,7 +36852,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Justice Wind",
         "translation": "[ITEM] ветра справедливости",
-        "new_translation": null,
+        "new_translation": "[ITEM] Вітру Справедливості",
         "tokens": {
             "tokens": [
                 {
@@ -36873,7 +36873,7 @@
         "property": "EFFECT#110:GOODDES",
         "original": "Kills unit immediately",
         "translation": "Мгновенно убивает создание",
-        "new_translation": null,
+        "new_translation": "Миттєво вбиває створення",
         "tokens": null,
         "duplicates": 3
     },
@@ -36883,7 +36883,7 @@
         "property": "EFFECT#110:GOODDESOT",
         "original": "Kills unit immediately",
         "translation": "Мгновенно убивает создание",
-        "new_translation": null,
+        "new_translation": "Миттєво вбиває створення",
         "tokens": null,
         "duplicates": 3
     },
@@ -36893,7 +36893,7 @@
         "property": "EFFECT#110:BADDES",
         "original": "Kills unit immediately",
         "translation": "Мгновенно убивает создание",
-        "new_translation": null,
+        "new_translation": "Миттєво вбиває створення",
         "tokens": null,
         "duplicates": 3
     },
@@ -36903,7 +36903,7 @@
         "property": "EFFECT#110:BADDESOT",
         "original": "Kills unit immediately",
         "translation": "Мгновенно убивает создание",
-        "new_translation": null,
+        "new_translation": "Миттєво вбиває створення",
         "tokens": null,
         "duplicates": 3
     },
@@ -76836,7 +76836,7 @@
         "property": "DISPLAYNAME",
         "original": "Goldenrod",
         "translation": "Златопрут",
-        "new_translation": null,
+        "new_translation": "Златопрут",
         "tokens": null,
         "duplicates": 0
     },
@@ -76846,7 +76846,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76856,7 +76856,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76866,7 +76866,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76876,7 +76876,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76886,7 +76886,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76896,7 +76896,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76906,7 +76906,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76916,7 +76916,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76926,7 +76926,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76936,7 +76936,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76946,7 +76946,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
@@ -76956,7 +76956,7 @@
         "property": "DISPLAYNAME",
         "original": "ArmorTrap",
         "translation": "Бронеловушка",
-        "new_translation": null,
+        "new_translation": "Панцирна пастка",
         "tokens": null,
         "duplicates": 11
     },
