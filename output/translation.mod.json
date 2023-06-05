@@ -2842,7 +2842,7 @@
         "property": "DIALOG:INTRO:DIALOG#4",
         "original": "|cFFFFBA00[DEFEAT1]|u must be destroyed, but I cannot risk returning to the depths.  If you will go in my place, I will reward you well.\\n\\nYou will find |cFFFFBA00[DEFEAT1]|u |cFFFFBA00[DEFEAT1DEPTH]|u floors below us.  Tread carefully.",
         "translation": "|cFFFFBA00[DEFEAT1]|u - один из тех, кого необходимо уничтожить. Но я не могу рисковать и снова спускаться в подземелье.  Если отправитесь вместо меня, я щедро вас награжу.\\n\\n|cFFFFBA00[DEFEAT1]|u находится на |cFFFFBA00[DEFEAT1DEPTH]|u уровне подземелья.  Будьте осторожны.",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00[DEFEAT1]|u - з тих, кого необхідно знищити. Але я не можу ризикувати і знову спускатися до підземелля. Якщо ви відправитеся замість мене, я щедро вас нагороджу.\\n\\n|cFFFFBA00[DEFEAT1]|u знаходиться на |cFFFFBA00[DEFEAT1DEPTH]|u рівні підземелля. Бережіть себе.",
         "tokens": {
             "tokens": [
                 {
@@ -2874,7 +2874,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "Have you ever seen an Ember vein running through water?  I've read that it can result in Shimmering Ember, but I've never actually seen such a thing.  You'll keep an eye out for it won't you?  I'll continue my research in your absense.",
         "translation": "Вы когда-нибудь видели эмберную жилу, проходящую через водоем?  Я читал, что в таких местах может образоваться мерцающий эмбер, но сам никогда ничего подобного не видел.  Поищете его для меня?  А я пока продолжу исследования.",
-        "new_translation": null,
+        "new_translation": "Ви коли-небудь бачили Емберну жилу, що проходить через водоймище? Я читав, що в таких місцях може утворитися Мерехтливий Ембер, але сам ніколи нічого подібного не бачив. Знайдете його для мене? А я поки що продовжу дослідження.",
         "tokens": null,
         "duplicates": 0
     },
@@ -2911,7 +2911,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -2943,7 +2943,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -2975,7 +2975,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -3007,7 +3007,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -3039,7 +3039,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -3071,7 +3071,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -3103,7 +3103,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I know a collector who would pay handsomely for a piece of |cFFFFBA00[ACQUIRE1]|u.  Floor |cFFFFBA00[ACQUIRE1DEPTH]|u of the |cFFFFBA00Shadow Vault|u is your best bet, return with the Ember and I'll give you your share of the profit.",
         "translation": "Я знаю коллекционера, который готов хорошо заплатить за |cFFFFBA00[ACQUIRE1]|u. Идите в |cFFFFBA00Подземелье мрака|u на уровень |cFFFFBA00[ACQUIRE1DEPTH]|u - не прогадаете. Когда вернетесь с добычей - получите свою долю прибыли.",
-        "new_translation": null,
+        "new_translation": "Я знаю колекціонера, який готовий заплатити за |cFFFFBA00[ACQUIRE1]|u. Ідіть в |cFFFFBA00Сховище Тіней|u на рівень |cFFFFBA00[ACQUIRE1DEPTH]|u - не помилитеся. Коли повернетеся зі здобиччю - отримаєте свою частку прибутку.",
         "tokens": {
             "tokens": [
                 {
@@ -3135,7 +3135,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "I've been watching you, hero.\\n\\n|cFFFFBA00[DEFEAT1]|u has watched you too.  Darkness enfolds his floor |cFFFFBA00[DEFEAT1DEPTH]|u lair- that is where he will challenge you.  Release him from his service, and I will reward you well.",
         "translation": "Я давно за вами наблюдаю, герой.\\n\\n|cFFFFBA00[DEFEAT1]|u тоже за вами наблюдает.  Тьма окутала его логово на уровне |cFFFFBA00[DEFEAT1DEPTH]|u. Там он сразится с вами.  Покончите с ним, и я щедро вас награжу.",
-        "new_translation": null,
+        "new_translation": "Я давно спостерігаю за вами, герою.\\n\\nДумаю, |cFFFFBA00[DEFEAT1]|u займається тим самим. Темрява огорнула його лігво на рівні |cFFFFBA00[DEFEAT1DEPTH]|u. Там ви битиметесь. Покінчіть із ним, і я щедро вас нагороджу.",
         "tokens": {
             "tokens": [
                 {
@@ -3162,7 +3162,7 @@
         "property": "DIALOG:INTRO:DIALOG#6",
         "original": "You must have a will of iron, few can withstand the corruption so well.  I could not, and |cFFFFBA00[DEFEAT1]|u fared far worse.\\n\\nThe champions of blight must be defeated, descend to floor |cFFFFBA00[DEFEAT1DEPTH]|u and see to it.",
         "translation": "Должно быть, у вас железная воля. Мало кто способен так долго противостоять влиянию тьмы.  У меня не получилось. А |cFFFFBA00[DEFEAT1]|u даже не пытается сопротивляться.\\n\\nВожаков тьмы необходимо уничтожить. Спускайтесь на уровень |cFFFFBA00[DEFEAT1DEPTH]|u и разберитесь с одним из них.",
-        "new_translation": null,
+        "new_translation": "Мабуть у вас залізна воля. Мало хто здатен так довго протистояти впливу Потьмарення. У мене не вийшло. А |cFFFFBA00[DEFEAT1]|u навіть не намагається чинити опір.\\n\\nВатажків Пітьми необхідно знищити. Спускайтеся на рівень |cFFFFBA00[DEFEAT1DEPTH]|u та розберіться з одним із них.",
         "tokens": {
             "tokens": [
                 {
@@ -3189,7 +3189,7 @@
         "property": "DIALOG:INTRO:DIALOG",
         "original": "Thank you for putting Master Alric to rest, I'll remember him as he was before Ordrak consumed his mind.\\n\\nI have already asked too much of you, but you must face Ordrak.  This cycle of destruction will never end while he is alive.",
         "translation": "Спасибо, что помогли Алрику обрести покой. Я буду помнить его таким, каким он был до Ордрака.\\n\\nЗнаю, я уже о многом вас просила, но вам необходимо сразиться с Ордраком.  Круг разрушений не остановить, пока он жив.",
-        "new_translation": null,
+        "new_translation": "Дякую, що допомогли Алріку знайти спокій. Я пам'ятатиму його таким, яким він був до Ордрака.\\n\\nЗнаю, я вже багато про що вас просила, але вам необхідно битися з Ордраком. Коло руйнувань не зупинити, доки він живий.",
         "tokens": null,
         "duplicates": 0
     },
@@ -3199,7 +3199,7 @@
         "property": "DIALOG:PASSIVE#4:DIALOG",
         "original": "It isn't worth the risk, why won't my husband see that?  \\n\\nThere are other Ember mines in the world, we should take Albert and find work at one of them.  They may not be nearly as rich, but at least they're not full of monsters!",
         "translation": "Риск того не стоит, почему муж никак это не поймет?  \\n\\nВ мире полно и других эмберных шахт. Просто возьмем с собой Альберта и найдем работу в одной из них.  Пусть в других местах не настолько богатые залежи, но зато и чудовищ там нет!",
-        "new_translation": null,
+        "new_translation": "Ризик того не вартий, чому чоловік ніяк це не зрозуміє?  \\n\\nУ світі повно інших емберних шахт. Просто візьмемо з собою Альберта та знайдемо роботу в одній із них. Нехай в інших місцях не такі багаті поклади, але зате й потвор там немає!",
         "tokens": null,
         "duplicates": 0
     },
@@ -3209,7 +3209,7 @@
         "property": "DIALOG:RETURN:DIALOG",
         "original": "The impurities in the Ember you've found are fascinating.  This could be the basis for a lifetime of research, isn't that grand!\\n\\nFind me a shard of Primal Ember, and I'll make us both famous.  Well, famous in academic circles.",
         "translation": "Вкрапления в найденном вами образце эмбера просто удивительны.  Они могут стать основой длительных исследований. Правда, великолепно?\\n\\nНайдите мне фрагмент первобытного эмбера, и я прославлю нас обоих.  Правда, только в академических кругах.",
-        "new_translation": null,
+        "new_translation": "Вкраплення в знайденому вами зразку Ембера просто дивовижні. Вони можуть стати основою для тривалих досліджень. Правда, чудово?\\n\\nЗнайдіть мені фрагмент Первісного Ембера, і я прославлю нас обох. Щоправда, лише в академічних колах.",
         "tokens": null,
         "duplicates": 0
     },
@@ -11309,7 +11309,7 @@
         "property": "DESCRIPTION",
         "original": "Enfeebles nearby enemies, reducing their armor and elemental resistances, and slowing their attacks",
         "translation": "Противники рядом с вами слабеют, их броня разрушается, снижается устойчивость к стихиям, атаки замедляются",
-        "new_translation": "Послаблює ворогів поблизу, зменшуючи їхню броню та опір стихіям і сповільнюючи їхні атаки",
+        "new_translation": "Послаблює ворогів поблизу, зменшуючи їхню броню та стійкість до стихій та сповільнюючи їхні атаки",
         "tokens": null,
         "duplicates": 0
     },
@@ -17031,7 +17031,7 @@
         "property": "EFFECT#39:BADDESOT",
         "original": "-[VALUE] Electrical Resistance for [DURATION] seconds",
         "translation": "-[VALUE] к сопротивляемости электричеству на [DURATION] сек.",
-        "new_translation": "-[VALUE] опірності до електрики на [DURATION]",
+        "new_translation": "-[VALUE] від стійкості до електрики на [DURATION]",
         "tokens": {
             "tokens": [
                 {
@@ -17056,7 +17056,7 @@
         "property": "EFFECT#39:GOODDESOT",
         "original": "+[VALUE] Electrical Resistance for [DURATION] seconds",
         "translation": "+[VALUE] к сопротивляемости электричеству на [DURATION] сек.",
-        "new_translation": "+[VALUE] опірності до електрики на [DURATION]",
+        "new_translation": "+[VALUE] стійкості до електрики на [DURATION]",
         "tokens": {
             "tokens": [
                 {
@@ -21190,7 +21190,7 @@
         "property": "LEVEL12:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21200,7 +21200,7 @@
         "property": "LEVEL11:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21210,7 +21210,7 @@
         "property": "LEVEL9:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21220,7 +21220,7 @@
         "property": "LEVEL8:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21230,7 +21230,7 @@
         "property": "LEVEL10:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21240,7 +21240,7 @@
         "property": "LEVEL6:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21250,7 +21250,7 @@
         "property": "LEVEL7:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -21310,7 +21310,7 @@
         "property": "LEVEL5:DESCRIPTION",
         "original": "Fling an arc of 7 darts that pierces foes",
         "translation": "Одновременный бросок 7 дротиков, которые поражают врага.",
-        "new_translation": null,
+        "new_translation": "Постріл дугою з 7 стріл, що пронизують ворогів.",
         "tokens": null,
         "duplicates": 7
     },
@@ -27835,7 +27835,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27857,7 +27857,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27879,7 +27879,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27901,7 +27901,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27923,7 +27923,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27945,7 +27945,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27967,7 +27967,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -27989,7 +27989,7 @@
         "property": "DISPLAYNAME",
         "original": "|cFFFFBA00Ember Examination|u",
         "translation": "|cFFFFBA00Изучение эмбера|u",
-        "new_translation": null,
+        "new_translation": "|cFFFFBA00Вивчення Емберу|u",
         "tokens": {
             "tokens": [
                 {
@@ -30179,7 +30179,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30189,7 +30189,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30199,7 +30199,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30209,7 +30209,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30219,7 +30219,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30229,7 +30229,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30239,7 +30239,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -30249,7 +30249,7 @@
         "property": "DESCRIPTION",
         "original": "Opens phase-portal on death",
         "translation": "При гибели открывает портал-ступень",
-        "new_translation": null,
+        "new_translation": "При загибелі відкриває фазовий портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -32532,7 +32532,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Draining Touch III",
         "translation": "Заклинание: Иссушающее касание III",
-        "new_translation": null,
+        "new_translation": "Заклинання: Дотик виснаження III",
         "tokens": null,
         "duplicates": 0
     },
@@ -32542,7 +32542,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Archers III",
         "translation": "Заклинание: Призывание лучников III",
-        "new_translation": null,
+        "new_translation": "Заклинання: Призвати лучників III",
         "tokens": null,
         "duplicates": 0
     },
@@ -32552,7 +32552,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Skeleton II",
         "translation": "Заклинание: Призывание скелета II",
-        "new_translation": null,
+        "new_translation": "Заклинання: Призвати Скелета II",
         "tokens": null,
         "duplicates": 0
     },
@@ -32562,7 +32562,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Skeleton IV",
         "translation": "Заклинание: Призывание скелета IV",
-        "new_translation": null,
+        "new_translation": "Заклинання: Призвати Скелета IV",
         "tokens": null,
         "duplicates": 0
     },
@@ -32572,7 +32572,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Skeleton VI",
         "translation": "Заклинание: Призывание скелета VI",
-        "new_translation": null,
+        "new_translation": "Заклинання: Призвати Скелета VI",
         "tokens": null,
         "duplicates": 0
     },
@@ -32582,7 +32582,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Zombies III",
         "translation": "Заклинание: Поднятие зомби III",
-        "new_translation": null,
+        "new_translation": "Заклинання: Призвати Зомбі III",
         "tokens": null,
         "duplicates": 0
     },
@@ -32592,7 +32592,7 @@
         "property": "DISPLAYNAME",
         "original": "Magnus' Sleeping Overlord",
         "translation": "Спящий владыка Магнуса",
-        "new_translation": null,
+        "new_translation": "Сонний владика Магнуса",
         "tokens": null,
         "duplicates": 0
     },
@@ -32602,7 +32602,7 @@
         "property": "DESCRIPTION",
         "original": "Incarnation of Corruption",
         "translation": "Воплощение порчи",
-        "new_translation": null,
+        "new_translation": "Втілення Потьмарення",
         "tokens": null,
         "duplicates": 0
     },
@@ -32612,7 +32612,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Barricades",
         "translation": "[ITEM] баррикад",
-        "new_translation": null,
+        "new_translation": "ITEM] барикад",
         "tokens": {
             "tokens": [
                 {
@@ -32633,7 +32633,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Slipstream",
         "translation": "[ITEM] воздушного потока",
-        "new_translation": null,
+        "new_translation": "[ITEM] Повітряного потоку",
         "tokens": {
             "tokens": [
                 {
@@ -32654,7 +32654,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Omniscient",
         "translation": "[ITEM] всеведения",
-        "new_translation": null,
+        "new_translation": "[ITEM] Всезнання",
         "tokens": {
             "tokens": [
                 {
@@ -32675,7 +32675,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Malevolent",
         "translation": "[ITEM] враждебности",
-        "new_translation": null,
+        "new_translation": "[ITEM] Зловісності",
         "tokens": {
             "tokens": [
                 {
@@ -32696,7 +32696,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Spectral Decay",
         "translation": "[ITEM] призрачной порчи",
-        "new_translation": null,
+        "new_translation": "[ITEM] Спектрального Згасання",
         "tokens": {
             "tokens": [
                 {
@@ -32717,7 +32717,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Devouring Trap",
         "translation": "[ITEM] пожирающей ловушки",
-        "new_translation": null,
+        "new_translation": "[ITEM] Втягуючої пастки",
         "tokens": {
             "tokens": [
                 {
@@ -32738,7 +32738,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Explosive Shot",
         "translation": "[ITEM] взрывного снаряда",
-        "new_translation": null,
+        "new_translation": "[ITEM] Вибохового Пострілу",
         "tokens": {
             "tokens": [
                 {
@@ -32759,7 +32759,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of Lightning Bomb",
         "translation": "[ITEM] электрической бомбы",
-        "new_translation": null,
+        "new_translation": "[ITEM] Блискавкової бомби",
         "tokens": {
             "tokens": [
                 {
@@ -32780,7 +32780,7 @@
         "property": "EFFECT#124:BADDES",
         "original": "-[VALUE] Health Recovery",
         "translation": "-[VALUE] к восстановлению здоровья",
-        "new_translation": null,
+        "new_translation": "-[VALUE] від відновлення здоров'я",
         "tokens": {
             "tokens": [
                 {
@@ -32801,7 +32801,7 @@
         "property": "EFFECT#130:GOODDES",
         "original": "[VALUE] Emotional Damage",
         "translation": "[VALUE] - эмоциональный урон",
-        "new_translation": null,
+        "new_translation": "[VALUE] - емоційна шкода",
         "tokens": {
             "tokens": [
                 {
@@ -32822,7 +32822,7 @@
         "property": "EFFECT#130:GOODDESOT",
         "original": "[VALUE] Emotional Damage",
         "translation": "[VALUE] - эмоциональный урон",
-        "new_translation": null,
+        "new_translation": "[VALUE] - емоційна шкода",
         "tokens": {
             "tokens": [
                 {
@@ -32843,7 +32843,7 @@
         "property": "EFFECT#130:BADDES",
         "original": "[VALUE] Emotional Damage",
         "translation": "[VALUE] - эмоциональный урон",
-        "new_translation": null,
+        "new_translation": "[VALUE] - емоційна шкода",
         "tokens": {
             "tokens": [
                 {
@@ -32864,7 +32864,7 @@
         "property": "EFFECT#130:BADDESOT",
         "original": "[VALUE] Emotional Damage",
         "translation": "[VALUE] - эмоциональный урон",
-        "new_translation": null,
+        "new_translation": "[VALUE] - емоційна шкода",
         "tokens": {
             "tokens": [
                 {
@@ -32885,7 +32885,7 @@
         "property": "EFFECT#139:GOODDES",
         "original": "[VALUE]% Stun Resistance",
         "translation": "[VALUE]% сопротивляемость оглушению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до оглушення",
         "tokens": {
             "tokens": [
                 {
@@ -32906,7 +32906,7 @@
         "property": "EFFECT#139:GOODDESOT",
         "original": "[VALUE]% Stun Resistance",
         "translation": "[VALUE]% сопротивляемость оглушению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до оглушення",
         "tokens": {
             "tokens": [
                 {
@@ -32927,7 +32927,7 @@
         "property": "EFFECT#139:BADDES",
         "original": "[VALUE]% Stun Resistance",
         "translation": "[VALUE]% сопротивляемость оглушению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до оглушення",
         "tokens": {
             "tokens": [
                 {
@@ -32948,7 +32948,7 @@
         "property": "EFFECT#139:BADDESOT",
         "original": "[VALUE]% Stun Resistance",
         "translation": "[VALUE]% сопротивляемость оглушению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до оглушення",
         "tokens": {
             "tokens": [
                 {
@@ -32969,7 +32969,7 @@
         "property": "EFFECT#140:GOODDES",
         "original": "[VALUE]% Slow Resistance",
         "translation": "[VALUE]% сопротивляемость замедлению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до уповільнення",
         "tokens": {
             "tokens": [
                 {
@@ -32990,7 +32990,7 @@
         "property": "EFFECT#140:GOODDESOT",
         "original": "[VALUE]% Slow Resistance",
         "translation": "[VALUE]% сопротивляемость замедлению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до уповільнення",
         "tokens": {
             "tokens": [
                 {
@@ -33011,7 +33011,7 @@
         "property": "EFFECT#140:BADDES",
         "original": "[VALUE]% Slow Resistance",
         "translation": "[VALUE]% сопротивляемость замедлению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до уповільнення",
         "tokens": {
             "tokens": [
                 {
@@ -33032,7 +33032,7 @@
         "property": "EFFECT#140:BADDESOT",
         "original": "[VALUE]% Slow Resistance",
         "translation": "[VALUE]% сопротивляемость замедлению",
-        "new_translation": null,
+        "new_translation": "[VALUE]% стійкість до уповільнення",
         "tokens": {
             "tokens": [
                 {
@@ -33246,7 +33246,7 @@
         "property": "EFFECT#7:BADDES",
         "original": "-[VALUE] Health Recovery",
         "translation": "-[VALUE] к восстановлению здоровья",
-        "new_translation": null,
+        "new_translation": "-[VALUE] від відновлення здоров'я",
         "tokens": {
             "tokens": [
                 {
@@ -36436,7 +36436,7 @@
         "file": "c:\\svn\\builds\\delvers\\media\\units\\items\\spells\\summonarcherspell.dat",
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Archers I",
-        "translation": "Заклинание: Призывание лучников I",
+        "translation": "Заклинання: Призвати Лучників I",
         "new_translation": null,
         "tokens": null,
         "duplicates": 0
@@ -36446,7 +36446,7 @@
         "file": "c:\\svn\\builds\\delvers\\media\\units\\items\\spells\\summonarcherspell5.dat",
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Archers V",
-        "translation": "Заклинание: Призывание лучников V",
+        "translation": "Заклинання: Призвати Лучників V",
         "new_translation": null,
         "tokens": null,
         "duplicates": 0
@@ -36457,7 +36457,7 @@
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Zombies I",
         "translation": "Заклинание: Поднятие зомби I",
-        "new_translation": null,
+        "new_translation": "Заклинання: Призвати Зомбі I",
         "tokens": null,
         "duplicates": 0
     },
@@ -36466,7 +36466,7 @@
         "file": "c:\\svn\\builds\\delvers\\media\\units\\items\\spells\\summonzombiesspell5.dat",
         "property": "DISPLAYNAME",
         "original": "Spell: Summon Zombies V",
-        "translation": "Заклинание: Поднятие зомби V",
+        "translation": "Заклинание: Призвати Зомбі V",
         "new_translation": null,
         "tokens": null,
         "duplicates": 0
@@ -36477,7 +36477,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem V2 MkIII",
         "translation": "Алхимический голем V2 MkIII",
-        "new_translation": null,
+        "new_translation": "Алхімічний голем V2 MkIII",
         "tokens": null,
         "duplicates": 0
     },
@@ -36487,7 +36487,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem V3 MkIII",
         "translation": "Алхимический голем V3 MkIII",
-        "new_translation": null,
+        "new_translation": "Алхімічний голем V3 MkIII",
         "tokens": null,
         "duplicates": 0
     },
@@ -38509,7 +38509,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem V2 MkII",
         "translation": "Алхимический голем V2 MkII",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем V2 MkII",
         "tokens": null,
         "duplicates": 0
     },
@@ -38519,7 +38519,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem V3 MkII",
         "translation": "Алхимический голем V3 MkII",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем V3 MkII",
         "tokens": null,
         "duplicates": 0
     },
@@ -38529,7 +38529,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem MkULTRA",
         "translation": "Алхимический голем MkULTRA",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем MkULTRA",
         "tokens": null,
         "duplicates": 0
     },
@@ -43586,7 +43586,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem MkIII",
         "translation": "Алхимический голем MkIII",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем MkIII",
         "tokens": null,
         "duplicates": 0
     },
@@ -46661,7 +46661,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem MkII",
         "translation": "Алхимический голем MkII",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем MkII",
         "tokens": null,
         "duplicates": 0
     },
@@ -54731,7 +54731,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem V2",
         "translation": "Алхимический голем V2",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем V2",
         "tokens": null,
         "duplicates": 0
     },
@@ -54741,7 +54741,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem V3",
         "translation": "Алхимический голем V3",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем V3",
         "tokens": null,
         "duplicates": 0
     },
@@ -59158,7 +59158,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59168,7 +59168,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59178,7 +59178,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59188,7 +59188,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59198,7 +59198,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59208,7 +59208,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59218,7 +59218,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -59228,7 +59228,7 @@
         "property": "LEVELNAME",
         "original": "Estherian Ruins",
         "translation": "Эстерийские развалины",
-        "new_translation": null,
+        "new_translation": "Руїни Естерії",
         "tokens": null,
         "duplicates": 7
     },
@@ -65049,7 +65049,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65059,7 +65059,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65069,7 +65069,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65079,7 +65079,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65089,7 +65089,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65099,7 +65099,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65109,7 +65109,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65119,7 +65119,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65129,7 +65129,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65139,7 +65139,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -65149,7 +65149,7 @@
         "property": "DISPLAYNAME",
         "original": "Alchemic Golem",
         "translation": "Алхимический голем",
-        "new_translation": null,
+        "new_translation": "Алхімічний Голем",
         "tokens": null,
         "duplicates": 10
     },
@@ -69477,7 +69477,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69487,7 +69487,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69497,7 +69497,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69507,7 +69507,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69517,7 +69517,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69527,7 +69527,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69537,7 +69537,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -69547,7 +69547,7 @@
         "property": "LEVELNAME",
         "original": "Black Palace",
         "translation": "Черный дворец",
-        "new_translation": null,
+        "new_translation": "Чорний Палац",
         "tokens": null,
         "duplicates": 7
     },
@@ -71917,7 +71917,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71927,7 +71927,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71937,7 +71937,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71947,7 +71947,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71957,7 +71957,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71967,7 +71967,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71977,7 +71977,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -71987,7 +71987,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Portal",
         "translation": "Портал-ступень",
-        "new_translation": null,
+        "new_translation": "Фазовий Портал",
         "tokens": null,
         "duplicates": 7
     },
@@ -73845,7 +73845,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73855,7 +73855,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73865,7 +73865,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73875,7 +73875,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73885,7 +73885,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73895,7 +73895,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73905,7 +73905,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73915,7 +73915,7 @@
         "property": "DISPLAYNAME",
         "original": "Phase Beast",
         "translation": "Зверь ступени",
-        "new_translation": null,
+        "new_translation": "Фазовий Звір",
         "tokens": null,
         "duplicates": 7
     },
@@ -73945,7 +73945,7 @@
         "property": "DISPLAYNAME",
         "original": "Vilebracken",
         "translation": "Нечистый папоротник",
-        "new_translation": null,
+        "new_translation": "Гидколист",
         "tokens": null,
         "duplicates": 0
     },
@@ -73955,7 +73955,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },
@@ -73965,7 +73965,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },
@@ -73975,7 +73975,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },
@@ -73985,7 +73985,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },
@@ -73995,7 +73995,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },
@@ -74005,7 +74005,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },
@@ -74015,7 +74015,7 @@
         "property": "DESCRIPTION",
         "original": "Leap attack",
         "translation": "Атака в прыжке",
-        "new_translation": null,
+        "new_translation": "Атака з наскоку",
         "tokens": null,
         "duplicates": 6
     },

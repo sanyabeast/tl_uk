@@ -55,19 +55,19 @@ longest_items = list(map(lambda kv: f'[{len(kv["original"])}]: {kv["original"][0
 
 one_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
     kv["original"]) > 0 and " " not in kv["original"], sorted(
-    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:5]
 
 one_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
     kv["original"]) > 0 and kv["original"].count(" ") == 0, sorted(
-    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:5]
 
 two_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
     kv["original"]) > 0 and kv["original"].count(" ") == 1, sorted(
-    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:5]
 
 three_words = list(map(lambda kv: kv["original"], filter(lambda kv: len(
     kv["original"]) > 0 and kv["original"].count(" ") == 2, sorted(
-    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:10]
+    not_translated_items, key=lambda kv: len(kv['original']), reverse=True))))[0:5]
 
 # percentage
 translated_text_length = 0
