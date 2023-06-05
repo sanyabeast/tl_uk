@@ -496,7 +496,7 @@
         "property": "TEXT",
         "original": "I have defeated Ordrak, but his darkness still infests the Ember here.  Can he truly be dead while his spirit runs through the veins?\\n\\nThis is not the end of the evils below Torchlight.  I have grown stronger here, but the corruption of our age boils just beneath the surface.  I must continue to hone my skills.\\n\\nI will remain awhile in Torchlight and await the conflict yet to come.\\n\\n\\n",
         "translation": "Мне удалось победить Ордрака, но эмбер здесь все еще пропитан его тьмой.  Можно ли считать его мертвым, раз его дух все еще здесь?\\n\\nЗло под Сумеречным никуда не исчезло.  Мне удалось стать сильнее, но в подземелье растет сила и влияние мрака.  Мне необходимо продолжать оттачивать мастерство.\\n\\nНа какое-то время я останусь в Сумеречном и буду ждать войны.\\n\\n\\n",
-        "new_translation": "Мені вдалося перемогти Ордрака, але ембер тут все ще пронизаний його темрявою. Чи можна вважати його мертвим, якщо його дух все ще тут?\\n\\nЗло під Торчлайтом нікуди не зникло. Мені вдалося стати сильнішим, але у підземеллі сила і вплив мраку зростають. Мені потрібно продовжувати вдосконалювати свою майстерність.\\n\\nЯ поки що залишуся в Торчлайті і буду чекати війни.\\n\\\n\\n",
+        "new_translation": "Мені вдалося перемогти Ордрака, але ембер тут все ще пронизаний його темрявою. Чи можна вважати його мертвим, якщо його дух все ще тут?\\n\\nЗло під Торчлайтом нікуди не зникло. Мені вдалося стати сильнішим, але у підземеллі сила і вплив мраку зростають. Мені потрібно продовжувати вдосконалювати свою майстерність.\\n\\nЯ поки що залишуся в Торчлайті і буду чекати війни.\\n\\n\\n",
         "tokens": null,
         "duplicates": 0
     },
@@ -1136,7 +1136,7 @@
         "property": "DIALOG:COMPLETE:DIALOG#1",
         "original": "Truly an epic victory, I can picture it now.  |cFFFFBA00[DEFEAT1]|u roaring mightily, you striking a dashing pose!  I wish I could have been there to see it!  Of course, there's the danger, one with talent such as mine simply cannot be risked on such perilous errands.\\n\\nI will spread word of your victory in song and verse!",
         "translation": "І справді епічний сюжет! Відмінно все собі уявляю. |cFFFFBA00[DEFEAT1]|u грізно гарчить, і ви приймаєте відважну позу! Шкода, мене там не було! Ясна річ, що це занадто небезпечно, і не варто ризикувати таким талантом, як у мене. Я прославлю вашу перемогу в піснях і баладах!",
-        "new_translation": "І насправді епічний сюжет! Виразно уявляю собі всю ситуацію. |cFFFFBA00[DEFEAT1]|u грізно реве, а ви відважно приймаєте позу! Шкода, що мене там не було! Зрозуміло, що це надто небезпечно, і не варто ризикувати таким талантом, як у мене. Я прославлю вашу перемогу у піснях і баладах!",
+        "new_translation": "І насправді епічний сюжет! Виразно уявляю собі всю ситуацію. |cFFFFBA00[DEFEAT1]|u грізно реве, а ви відважно приймаєте позу! Шкода, що мене там не було! Зрозуміло, що це надто небезпечно, і не варто ризикувати таким талантом, як у мене.\\n\\nЯ прославлю вашу перемогу у піснях і баладах!",
         "tokens": {
             "tokens": [
                 {
@@ -1575,7 +1575,7 @@
         "property": "DIALOG:INTRO:DIALOG#1",
         "original": "With this book and this wand, we're gonna be rich!\\n\\nIt says here there's a |cFFFFBA00[ACQUIRE1]|u hidden deep below us.  There's no tunnel that goes there anymore, but I'll open a portal for you.  I know a collector who'll pay big for the |cFFFFBA00[ACQUIRE1]|u and I'll cut you in on the profit.",
         "translation": "Эта книга и этот жезл сделают нас богачами!\\n\\nЗдесь говорится, что где-то в глубинах под нами находится |cFFFFBA00[ACQUIRE1]|u.  Ни один проход туда не ведет. Но я открою для вас портал.  Я знаю одного коллекционера, который немало заплатит за такую ценную вещь, как |cFFFFBA00[ACQUIRE1]|u. Часть денег я отдам вам.",
-        "new_translation": "Ця книга і цей жезл зроблять нас багатими! Тут згадується, що десь у глибинах під нами знаходиться |cFFFFBA00[ACQUIRE1]|u. Жоден прохід не веде туди. Але я відкрию для вас портал. Я знаю одного колекціонера, який готовий щедро заплатити за такий цінний предмет, як |cFFFFBA00[ACQUIRE1]|u. Частину грошей я передам вам.",
+        "new_translation": "Ця книга і цей жезл зроблять нас багатими!\\n\\nТут згадується, що десь у глибинах під нами знаходиться |cFFFFBA00[ACQUIRE1]|u. Жоден прохід не веде туди. Але я відкрию для вас портал. Я знаю одного колекціонера, який готовий щедро заплатити за такий цінний предмет, як |cFFFFBA00[ACQUIRE1]|u. Частину грошей я передам вам.",
         "tokens": {
             "tokens": [
                 {
@@ -2620,7 +2620,7 @@
         "property": "DIALOG:PASSIVE#5:DIALOG",
         "original": "My sister, Moire, wants to leave Torchlight because of the monsters.  Doesn't she remember what we had to go through to get here?\\n\\nWe came all this way to meet rich Ember miners, and now that we have I'm not going to leave just because of a few rock trolls.",
         "translation": "Моя сестра Мойри хочет из-за чудовищ уехать из Сумеречного.  Неужели она не помнит, через что нам пришлось пройти, чтобы попасть сюда?\\n\\nМы проделали такой долгий путь, чтобы познакомиться с богатыми добытчиками эмбера. И бросить все это из-за парочки троллей?",
-        "new_translation": "Моя сестра, Муар, хоче покинути Торчлайт через монстрів. Невже вона не пам'ятає, через що нам довелося пройти, щоб потрапити сюди? Ми пройшли такий довгий шлях, щоб познайомитися з багатими здобувачами Ембера. І кинути все це через пару тролів?",
+        "new_translation": "Моя сестра, Муар, хоче покинути Торчлайт через монстрів. Невже вона не пам'ятає, через що нам довелося пройти, щоб потрапити сюди?\\n\\nМи пройшли такий довгий шлях, щоб познайомитися з багатими здобувачами Ембера. І кинути все це через пару тролів?",
         "tokens": null,
         "duplicates": 0
     },
@@ -32612,7 +32612,7 @@
         "property": "SUFFIX",
         "original": "[ITEM] of the Barricades",
         "translation": "[ITEM] баррикад",
-        "new_translation": "ITEM] барикад",
+        "new_translation": "[ITEM] барикад",
         "tokens": {
             "tokens": [
                 {

@@ -153,11 +153,13 @@ def parse_tokens(s):
             if inner_matches:
                 for inner_match in inner_matches:
                     if inner_match[0]:
-                        tokens.append({'type': 'colored_variable', 'value': inner_match[0], 'color': match[2]})
+                        tokens.append(
+                            {'type': 'colored_variable', 'value': inner_match[0], 'color': match[2]})
                         variables += 1
                         token_id = f'CVAR:{inner_match[0]}'
             else:
-                tokens.append({'type': 'colored_print', 'value': match[3], 'color': match[2]})
+                tokens.append({'type': 'colored_print',
+                              'value': match[3], 'color': match[2]})
                 colored_prints += 1
                 token_id = f'COLOR:{match[2]}'
 
@@ -197,13 +199,15 @@ def generate_tl_translation(d):
 def migrate_translation(source, target):
     migrated_items = 0
     for item in target:
-        existing_item = find(lambda kv: (kv['index'] == item['index'] and kv['new_translation'] != item['new_translation']), source)
+        existing_item = find(lambda kv: (
+            kv['index'] == item['index'] and kv['new_translation'] != item['new_translation']), source)
         if (existing_item != None):
             item['new_translation'] = existing_item['new_translation']
-            migrated_items+=1
+            migrated_items += 1
 
     print(f'\nitems migrated - {migrated_items}')
     return target
+
 
 def filter_unique(predicate, iterable):
     seen = set()
@@ -214,3 +218,71 @@ def filter_unique(predicate, iterable):
             seen.add(key)
             result.append(item)
     return result
+
+
+def count_occurrences(string, substring):
+    count = 0
+    start = 0
+    while True:
+        index = string.find(substring, start)
+        if index == -1:
+            break
+        count += 1
+        start = index + 1
+    return count
+
+
+def check_same_occurrences(a, b, c):
+    count_a = count_occurrences(a, c)
+    count_b = count_occurrences(b, c)
+    return count_a == count_b
+
+
+def validate_item(item):
+    translated = item['new_translation']
+    new_lines_check = True
+    colored_print_check = True
+    variables_count_check = True
+    directives_check = True
+    colored_variables_check = True
+
+    if translated != None:
+        index = item['index']
+        english = item['original']
+        token_data = item['tokens']
+        alias = f"[ {index}: {english[0:32]} ]"
+
+        new_lines_check = check_same_occurrences(
+            english, translated, '\\n')
+
+        if isinstance(token_data, dict):
+            tokens = token_data['tokens']
+
+            if (tokens != None):
+                for token in tokens:
+                    if token['type'] == 'colored_print':
+                        colored_print_check = check_same_occurrences(
+                            english, translated, f"|c{token['color']}") and check_same_occurrences(
+                            english, translated, f"|u")
+                    if token['type'] == 'directive':
+                        directives_check = check_same_occurrences(
+                            english, translated, f"<{token['value']}>")
+                    if (token['type'] == 'variable'):
+                        variables_count_check = check_same_occurrences(
+                            english, translated, f"[{token['value']}]")
+                    if (token['type'] == 'colored_variable'):
+                        variables_count_check = check_same_occurrences(
+                            english, translated, f"|c{token['color']}[{token['value']}]|u")
+
+        if not new_lines_check:
+            print(f'Error! Incorrect state of line breaks at "{alias}"')
+        if not colored_print_check:
+            print(f'Error! Incorrect state of colored prints at "{alias}"')
+        if not variables_count_check:
+            print(f'Error! Incorrect state of variables at "{alias}"')
+        if not colored_variables_check:
+            print(f'Error! Incorrect state of colored variables at "{alias}"')
+        if not directives_check:
+            print(f'Error! Incorrect state of directives at "{alias}"')
+
+    return new_lines_check and colored_variables_check and colored_print_check and variables_count_check and directives_check
